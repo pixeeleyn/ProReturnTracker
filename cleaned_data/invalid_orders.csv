@@ -1,0 +1,190 @@
+order_id,order_date,customer_id,region,product,category,quantity,unit_price,discount,unit_cost,sales_channel,sales_rep,payment_date
+SO-000011,2025-01-02,C1067,BC,"Monitor 27""",Displays,8,330.3,5.6,215.56,Direct Sales,R10,2025-01-31
+SO-000166,2025-01-24,C1083,Ontario,Webcam HD,Accessories,2,89.59,11.8,44.88,Direct Sales,R04,2025-02-27
+SO-000167,2025-01-25,C0508,Quebec,Mechanical Keyboard,Accessories,1,117.62,10.0,57.18,Online,,2025-01-25
+SO-000203,2025-01-29,C0927,Atlantic,"Monitor 27""",Displays,3,335.15,10.4,206.63,Direct Sales,R07,2025-02-28
+SO-000237,2025-02-02,C1021,Quebec,"Monitor 24""",Displays,-4,226.25,0.067,152.1,Direct Sales,R02,2025-04-07
+SO-000255,2025-02-04,C1017,Quebec,USB-C Dock,Accessories,4,150.37,9.4,74.15,Direct Sales,R01,2025-02-26
+SO-000330,2025-02-15,C1032,Ontario,Laptop Stand,Accessories,3,49.08,5.1,22.52,Direct Sales,R06,2025-03-22
+SO-000385,2025-02-23,C0989,Quebec,"Monitor 27""",Displays,7,325.56,2.6,213.68,Direct Sales,R01,2025-03-18
+SO-000427,2025-03-02,C1204,Ontario,Desk Lamp,Accessories,14,60.11,13.1,27.51,Partner,R05,2025-03-24
+SO-000486,2025-03-10,C1156,BC,Laptop Stand,Accessories,25,49.0,5.4,22.01,Direct Sales,R10,2025-06-15
+SO-000495,2025-03-11,C0634,Prairies,ErgoLift Standing Desk,Furniture,1,648.55,10.0,421.89,Online,,2025-03-11
+SO-000521,2025-03-14,C1120,Atlantic,USB-C Dock,Accessories,3,151.76,15.2,71.63,Direct Sales,R07,2025-04-09
+SO-000528,2025-03-15,C0955,Ontario,Laptop Stand,Accessories,1,49.74,3.7,21.96,Direct Sales,R05,2025-04-06
+SO-000543,2025-03-16,C0906,Atlantic,"Monitor 24""",Displays,1,225.36,10.4,153.6,Direct Sales,R07,2025-04-17
+SO-000552,2025-03-18,C0351,Ontario,Desk Lamp,Accessories,1,58.59,5.0,27.53,Online,,2025-03-18
+SO-000569,2025-03-20,C1081,BC,Wireless Mouse,Accessories,3,39.31,3.7,16.83,Direct Sales,R11,2025-04-15
+SO-000589,2025-03-22,C1173,Ontario,Webcam HD,Accessories,22,88.24,13.9,45.6,Direct Sales,R04,2025-08-10
+SO-000655,2025-03-31,C1157,Ontario,"Monitor 24""",Displays,22,225.41,16.6,153.2,Direct Sales,R06,2025-05-24
+SO-000681,2025-04-02,C0970,Ontario,USB-C Dock,Accessories,5,146.66,6.2,71.38,Direct Sales,R04,2025-04-29
+SO-000694,2025-04-04,C1094,Ontario,ErgoLift Standing Desk,Furniture,4,657.79,12.9,430.7,Direct Sales,R05,2025-04-28
+SO-000715,2025-04-08,C0944,Quebec,Webcam HD,Accessories,6,89.66,6.5,44.89,Direct Sales,R03,2025-05-01
+SO-000725,2025-04-09,C1088,Quebec,"Monitor 27""",Displays,7,333.54,3.6,210.95,Direct Sales,R03,2025-05-06
+SO-000726,2025-04-09,C1155,Atlantic,USB-C Dock,Accessories,26,149.13,16.4,73.6,Direct Sales,R07,2025-06-06
+SO-000757,2025-04-13,C0903,Prairies,"Monitor 27""",Displays,4,331.01,6.9,211.34,Direct Sales,R08,2025-05-13
+SO-000762,2025-04-14,C0925,Ontario,USB-C Dock,Accessories,2,148.21,7.0,73.34,Direct Sales,R04,2025-05-11
+SO-000771,2025-04-16,C1021,Quebec,Wireless Mouse,Accessories,5,38.53,2.0,17.27,Direct Sales,R02,2025-05-17
+SO-000774,2025-04-17,C0902,Quebec,Wireless Mouse,Accessories,4,39.78,5.4,16.84,Direct Sales,R03,2025-05-12
+SO-000823,2025-04-23,C0934,Ontario,"Monitor 27""",Displays,4,331.24,6.9,203.76,Direct Sales,R06,2025-05-16
+SO-000863,2025-04-29,C1201,Ontario,ErgoLift Standing Desk,Furniture,12,639.34,12.7,425.75,Partner,R06,2025-05-26
+SO-000871,2025-04-29,C1126,BC,"Monitor 27""",Displays,1,335.45,8.1,205.21,Direct Sales,R10,2025-05-26
+SO-000887,2025-05-02,C0940,Atlantic,Webcam HD,Accessories,7,87.42,10.2,44.94,Direct Sales,R07,2025-05-26
+SO-000897,2025-05-02,C1193,Ontario,Office Chair,Furniture,8,404.54,15.9,239.52,Partner,R06,2025-06-01
+SO-000903,2025-05-03,C0970,Ontario,Desk Lamp,Accessories,4,58.2,4.7,26.71,Direct Sales,R04,2025-05-26
+SO-001014,2025-05-16,C1190,Atlantic,Office Chair,Furniture,11,397.86,18.8,245.59,Partner,R07,2025-06-08
+SO-001042,2025-05-20,C1072,Quebec,Webcam HD,Accessories,3,88.33,7.7,45.6,Direct Sales,R02,2025-07-09
+SO-001142,2025-06-01,C0920,Atlantic,"Monitor 24""",Displays,5,224.59,8.1,147.02,Direct Sales,R07,2025-07-06
+SO-001186,2025-06-05,C0244,Ontario,Webcam HD,Accessories,1,88.39,5.0,45.89,Online,,2025-06-05
+SO-001229,2025-06-10,C1189,Ontario,"Monitor 27""",Displays,10,333.07,14.4,207.54,Partner,R05,2025-07-11
+SO-001233,2025-06-11,C0924,BC,Mechanical Keyboard,Accessories,4,119.41,5.9,57.6,Direct Sales,R10,2025-08-30
+SO-001272,2025-06-15,C0996,Atlantic,Laptop Stand,Accessories,7,49.69,10.1,21.36,Direct Sales,R07,2025-07-13
+SO-001299,2025-06-18,C1061,BC,USB-C Dock,Accessories,6,150.27,2.5,71.87,Direct Sales,R10,2025-07-18
+SO-001337,2025-06-22,C1180,Atlantic,Webcam HD,Accessories,18,88.31,38.3,45.13,Partner,R07,2025-07-15
+SO-001354,2025-06-24,C1094,Ontario,Mechanical Keyboard,Accessories,6,120.68,15.8,57.3,Direct Sales,R05,2025-07-23
+SO-001387,2025-06-27,C1041,Ontario,Desk Lamp,Accessories,-4,58.66,0.13,27.76,Direct Sales,R05,2025-07-23
+SO-001394,2025-06-27,C1121,Quebec,Webcam HD,Accessories,4,90.64,8.1,43.96,Direct Sales,R02,2025-07-30
+SO-001413,2025-06-29,C1027,Prairies,ErgoLift Standing Desk,Furniture,2,653.92,16.8,429.92,Direct Sales,R08,2025-07-26
+SO-001512,2025-07-10,C0934,Ontario,Laptop Stand,Accessories,4,48.21,9.8,21.79,Direct Sales,R06,2025-08-04
+SO-001521,2025-07-11,C1176,Atlantic,Office Chair,Furniture,13,395.9,17.1,237.63,Partner,R07,2025-08-12
+SO-001562,2025-07-15,C1145,Quebec,Office Chair,Furniture,23,395.58,15.3,244.51,Direct Sales,R01,2025-09-11
+SO-001710,2025-08-02,C1077,Quebec,Laptop Stand,Accessories,2,49.16,3.6,21.72,Direct Sales,R01,2025-10-09
+SO-001759,2025-08-08,C1018,Quebec,Desk Lamp,Accessories,3,58.16,10.5,26.92,Direct Sales,R02,2025-10-29
+SO-001809,2025-08-12,C0966,Ontario,ErgoLift Standing Desk,Furniture,3,658.17,11.2,410.84,Direct Sales,R04,2025-10-21
+SO-001866,2025-08-19,C0729,Quebec,Laptop Stand,Accessories,1,49.37,10.0,21.7,Online,,2025-08-19
+SO-001897,2025-08-22,C0970,Ontario,USB-C Dock,Accessories,3,146.11,4.2,70.08,Direct Sales,R04,2025-09-24
+SO-001910,2025-08-24,C0932,BC,Desk Lamp,Accessories,9,58.69,8.1,27.68,Direct Sales,R10,2025-09-26
+SO-001947,2025-08-27,C1128,Ontario,Wireless Mouse,Accessories,4,38.86,11.2,17.15,Direct Sales,R05,2025-09-22
+SO-001966,2025-08-30,C1174,Ontario,ErgoLift Standing Desk,Furniture,20,641.17,13.4,410.49,Direct Sales,R06,2025-10-31
+SO-001972,2025-08-30,C0507,Ontario,Wireless Mouse,Accessories,1,39.54,10.0,17.17,Online,,2025-08-30
+SO-002052,2025-09-07,C1039,Ontario,Mechanical Keyboard,Accessories,6,120.0,3.7,57.77,Direct Sales,R05,2025-10-04
+SO-002116,2025-09-14,C1163,Prairies,USB-C Dock,Accessories,19,149.45,9.9,71.37,Direct Sales,R09,2025-12-24
+SO-002151,2025-09-17,C0136,Ontario,"Monitor 24""",Displays,1,228.82,10.0,149.39,Online,,2025-09-17
+SO-002173,2025-09-19,C0946,BC,Wireless Mouse,Accessories,2,38.96,6.5,16.8,Direct Sales,R11,2025-10-14
+SO-002204,2025-09-24,C1087,Atlantic,Desk Lamp,Accessories,2,59.64,22.7,26.34,Direct Sales,R07,2025-10-19
+SO-002260,2025-09-29,C1082,Ontario,ErgoLift Standing Desk,Furniture,5,654.46,14.7,,Direct Sales,R05,2025-10-27
+SO-002261,2025-09-29,C1181,Atlantic,Office Chair,Furniture,26,398.44,36.4,237.52,Partner,R07,2025-11-18
+SO-002339,2025-10-07,C1135,Quebec,Mechanical Keyboard,Accessories,22,120.76,8.7,56.43,Direct Sales,R03,2025-12-10
+SO-002342,2025-10-07,C1191,Prairies,Webcam HD,Accessories,12,90.59,6.4,45.18,Partner,R08,2025-10-31
+SO-002371,2025-10-09,C1149,Atlantic,"Monitor 27""",Displays,17,334.63,17.5,204.39,Direct Sales,R07,2025-12-02
+SO-002415,2025-10-14,C1177,Atlantic,"Monitor 24""",Displays,15,232.83,19.2,150.03,Partner,R07,2025-11-18
+SO-002457,2025-10-18,C1045,Prairies,ErgoLift Standing Desk,Furniture,2,649.17,4.5,416.14,Direct Sales,R08,2025-11-11
+SO-002486,2025-10-21,C1156,BC,Office Chair,Furniture,20,400.69,13.5,235.93,Direct Sales,R10,2026-03-19
+SO-002629,2025-11-04,C0389,Quebec,Webcam HD,Accessories,2,89.71,5.0,44.78,Online,,2025-11-04
+SO-002652,2025-11-06,C1134,Prairies,Office Chair,Furniture,25,399.58,9.3,241.63,Direct Sales,R08,2026-03-16
+SO-002676,2025-11-09,C1094,Ontario,"Monitor 27""",Displays,5,330.94,11.1,209.98,Direct Sales,R05,2025-12-05
+SO-002698,2025-11-11,C1155,Atlantic,Webcam HD,Accessories,22,90.46,18.5,45.56,Direct Sales,R07,2026-01-13
+SO-002844,2025-11-24,C1176,Atlantic,Desk Lamp,Accessories,10,59.4,19.5,27.03,Partner,R07,2025-12-24
+SO-002848,2025-11-25,C1145,Quebec,ErgoLift Standing Desk,Furniture,-13,636.29,0.061,424.32,Direct Sales,R01,2026-01-18
+SO-002868,2025-11-26,C1128,Ontario,"Monitor 27""",Displays,4,324.76,6.9,213.16,Direct Sales,R05,2025-12-25
+SO-002922,2025-12-03,C1177,Atlantic,Mechanical Keyboard,Accessories,12,118.89,15.4,58.78,Partner,R07,2026-01-06
+SO-002931,2025-12-04,C0982,Ontario,ErgoLift Standing Desk,Furniture,6,656.56,8.3,425.16,Direct Sales,R05,2026-01-15
+SO-002937,2025-12-04,C1186,BC,ErgoLift Standing Desk,Furniture,7,658.37,16.9,417.42,Partner,R10,2025-12-27
+SO-002945,2025-12-05,C0724,Ontario,Webcam HD,Accessories,2,88.74,5.0,44.78,Online,,2025-12-05
+SO-002947,2025-12-05,C0988,BC,Mechanical Keyboard,Accessories,2,120.54,10.4,57.6,Direct Sales,R11,2026-01-28
+SO-002949,2025-12-05,C1203,Atlantic,Webcam HD,Accessories,15,89.51,22.9,45.18,Partner,R07,2025-12-27
+SO-002972,2025-12-07,C0915,Ontario,Mechanical Keyboard,Accessories,3,117.28,15.2,56.96,Direct Sales,R04,2026-01-04
+SO-002992,2025-12-09,C1030,Quebec,ErgoLift Standing Desk,Furniture,4,660.27,4.9,413.79,Direct Sales,R01,2026-01-06
+SO-003004,2025-12-10,C1188,Atlantic,Webcam HD,Accessories,13,89.55,14.1,45.36,Partner,R07,2026-01-08
+SO-003025,2025-12-11,C0650,Prairies,Webcam HD,Accessories,2,90.49,10.0,46.24,Online,,2025-12-11
+SO-003035,2025-12-12,C0983,Quebec,Wireless Mouse,Accessories,5,39.39,14.0,16.99,Direct Sales,R01,2026-01-03
+SO-003128,2025-12-22,C1021,Quebec,Wireless Mouse,Accessories,6,39.2,11.2,16.6,Direct Sales,R02,2026-01-25
+SO-003136,2025-12-23,C0844,Ontario,"Monitor 24""",Displays,-1,226.29,0.05,148.6,Online,,2025-12-23
+SO-003176,2025-12-26,C1082,Ontario,USB-C Dock,Accessories,-3,151.65,0.079,73.09,Direct Sales,R05,2026-01-27
+SO-003210,2025-12-29,C1206,Ontario,Office Chair,Furniture,8,400.24,20.7,236.43,Partner,R04,2026-01-29
+SO-003211,2025-12-29,C1124,Ontario,USB-C Dock,Accessories,4,146.93,4.0,71.94,Direct Sales,R06,2026-01-22
+SO-003234,2025-12-31,C0987,Ontario,Office Chair,Furniture,6,397.44,10.0,246.89,Direct Sales,R04,2026-01-23
+SO-003313,2026-01-07,C1099,Ontario,ErgoLift Standing Desk,Furniture,5,655.5,7.1,410.01,Direct Sales,R05,2026-02-07
+SO-003357,2026-01-11,C0939,BC,"Monitor 27""",Displays,4,328.83,8.0,209.59,Direct Sales,R10,2026-02-03
+SO-003393,2026-01-14,C1062,Atlantic,Webcam HD,Accessories,6,90.31,25.2,44.8,Direct Sales,R07,2026-02-08
+SO-003403,2026-01-14,C1137,Ontario,Office Chair,Furniture,16,398.83,13.3,239.4,Direct Sales,R05,2026-03-20
+SO-003457,2026-01-19,C1210,Ontario,Wireless Mouse,Accessories,12,39.5,19.0,17.33,Partner,R05,2026-02-10
+SO-003482,2026-01-22,C1204,Ontario,Office Chair,Furniture,10,393.41,16.5,238.32,Partner,R05,2026-02-21
+SO-003528,2026-01-27,C1192,Quebec,ErgoLift Standing Desk,Furniture,12,659.36,12.5,422.55,Partner,R01,2026-02-26
+SO-003536,2026-01-27,C0701,BC,"Monitor 24""",Displays,3,230.92,10.0,145.84,Online,,2026-01-27
+SO-003542,2026-01-28,C0552,Prairies,"Monitor 24""",Displays,4,226.63,10.0,150.6,Online,,2026-01-28
+SO-003583,2026-02-02,C1190,Atlantic,Office Chair,Furniture,9,401.29,32.1,232.93,Partner,R07,2026-02-26
+SO-003619,2026-02-05,C1009,Quebec,Mechanical Keyboard,Accessories,7,121.06,9.7,57.55,Direct Sales,R02,2026-03-08
+SO-003654,2026-02-08,C0460,BC,ErgoLift Standing Desk,Furniture,1,659.71,10.0,419.75,Online,,2026-02-08
+SO-003671,2026-02-09,C1096,Ontario,Laptop Stand,Accessories,6,48.57,1.4,22.22,Direct Sales,R06,2026-03-12
+SO-003720,2026-02-13,C1017,Quebec,Laptop Stand,Accessories,7,49.68,3.5,22.13,Direct Sales,R01,2026-03-17
+SO-003807,2026-02-20,C1125,Ontario,"Monitor 27""",Displays,5,322.85,8.8,206.21,Direct Sales,R06,2026-03-24
+SO-003875,2026-02-26,C1169,BC,ErgoLift Standing Desk,Furniture,20,640.89,13.9,428.09,Direct Sales,R11,2026-06-24
+SO-003911,2026-03-01,C1183,Quebec,Laptop Stand,Accessories,6,48.49,11.5,22.3,Partner,R03,2026-04-04
+SO-003928,2026-03-02,C0911,Prairies,Office Chair,Furniture,1,402.51,10.3,234.97,Direct Sales,R08,2026-03-29
+SO-004004,2026-03-09,C0629,Quebec,Mechanical Keyboard,Accessories,-2,119.34,0.0,57.35,Online,,2026-03-09
+SO-004028,2026-03-11,C0978,Quebec,Office Chair,Furniture,6,394.46,5.0,232.99,Direct Sales,R03,2026-04-05
+SO-004051,2026-03-12,C1050,BC,USB-C Dock,Accessories,4,151.14,7.8,72.99,Direct Sales,R11,2026-04-04
+SO-004073,2026-03-14,C0985,Ontario,Webcam HD,Accessories,4,87.95,7.1,45.38,Direct Sales,R06,2026-04-10
+SO-004091,2026-03-16,C0932,BC,Mechanical Keyboard,Accessories,7,117.17,8.9,56.27,Direct Sales,R10,2026-04-16
+SO-004175,2026-03-24,C0547,Ontario,Webcam HD,Accessories,1,88.3,5.0,46.17,Online,,2026-03-24
+SO-004197,2026-03-25,C1001,Prairies,ErgoLift Standing Desk,Furniture,5,641.25,13.8,414.53,Direct Sales,R09,2026-04-22
+SO-004270,2026-03-30,C1161,Quebec,ErgoLift Standing Desk,Furniture,17,651.45,20.0,422.08,Direct Sales,R01,2026-05-30
+SO-004272,2026-03-30,C0319,Atlantic,Mechanical Keyboard,Accessories,1,120.76,10.0,57.67,Online,,2026-03-30
+SO-004285,2026-03-31,C1203,Atlantic,USB-C Dock,Accessories,11,149.59,41.6,71.79,Partner,R07,2026-04-26
+SO-004292,2026-03-31,C1053,Ontario,ErgoLift Standing Desk,Furniture,3,639.66,10.2,421.67,Direct Sales,R04,2026-04-23
+SO-004332,2026-04-03,C1019,Ontario,Office Chair,Furniture,4,403.14,7.1,239.73,Direct Sales,R05,2026-05-01
+SO-004377,2026-04-07,C0430,Prairies,Desk Lamp,Accessories,1,58.49,10.0,26.21,Online,,2026-04-07
+SO-004394,2026-04-08,C0937,Quebec,"Monitor 27""",Displays,4,333.48,7.5,205.8,Direct Sales,R02,2026-05-02
+SO-004439,2026-04-11,C0866,Quebec,"Monitor 27""",Displays,1,335.17,5.0,216.11,Online,,2026-04-11
+SO-004457,2026-04-13,C0130,Ontario,Office Chair,Furniture,2,404.62,5.0,237.46,Online,,2026-04-13
+SO-004491,2026-04-15,C0939,BC,Office Chair,Furniture,3,398.65,5.4,238.21,Direct Sales,R10,2026-05-15
+SO-004592,2026-04-23,C0931,Atlantic,Laptop Stand,Accessories,3,49.77,18.5,22.37,Direct Sales,R07,2026-05-21
+SO-004600,2026-04-24,C1032,Ontario,"Monitor 27""",Displays,4,335.23,3.8,205.56,Direct Sales,R06,2026-05-18
+SO-004663,2026-04-29,C1125,Ontario,Mechanical Keyboard,Accessories,4,117.48,5.2,56.49,Direct Sales,R06,2026-05-26
+SO-004711,2026-05-02,C1201,Ontario,Laptop Stand,Accessories,14,49.44,7.3,21.98,Partner,R06,2026-05-30
+SO-004752,2026-05-06,C1163,Prairies,ErgoLift Standing Desk,Furniture,16,653.1,7.1,413.57,Direct Sales,R09,2026-07-04
+SO-004824,2026-05-12,C1174,Ontario,USB-C Dock,Accessories,20,151.12,12.4,73.63,Direct Sales,R06,2026-07-07
+SO-004825,2026-05-12,C0734,BC,Webcam HD,Accessories,2,87.5,5.0,44.85,Online,,2026-05-12
+SO-004855,2026-05-14,C1171,Atlantic,USB-C Dock,Accessories,21,148.92,27.1,71.49,Direct Sales,R07,2026-07-05
+SO-004866,2026-05-14,C1097,Ontario,Wireless Mouse,Accessories,4,39.46,3.3,17.22,Direct Sales,R05,2026-06-09
+SO-004887,2026-05-15,C1020,Ontario,Laptop Stand,Accessories,6,48.25,5.3,22.18,Direct Sales,R06,2026-06-07
+SO-004946,2026-05-20,C1107,BC,Mechanical Keyboard,Accessories,6,119.94,9.3,58.35,Direct Sales,R10,2026-06-24
+SO-005018,2026-05-26,C0217,Ontario,Wireless Mouse,Accessories,1,39.39,5.0,16.74,Online,,2026-05-26
+SO-005135,2026-06-04,C0733,Ontario,Laptop Stand,Accessories,1,49.21,10.0,22.65,Online,,2026-06-04
+SO-005214,2026-06-10,C1134,Prairies,Desk Lamp,Accessories,17,59.72,15.5,27.41,Direct Sales,R08,2026-10-03
+SO-005266,2026-06-13,C1176,Atlantic,Mechanical Keyboard,Accessories,16,119.0,27.2,56.77,Partner,R07,2026-07-10
+SO-005276,2026-06-14,C1209,BC,Office Chair,Furniture,12,396.45,10.5,235.0,Partner,R10,2026-07-12
+SO-005290,2026-06-15,C0644,Quebec,Desk Lamp,Accessories,1,59.08,5.0,26.45,Online,,2026-06-15
+SO-005373,2026-06-21,C1128,Ontario,Office Chair,Furniture,4,397.25,11.3,238.51,Direct Sales,R05,2026-07-17
+SO-005388,2026-06-22,C0940,Atlantic,Wireless Mouse,Accessories,3,39.04,35.1,17.32,Direct Sales,R07,2026-07-18
+SO-005389,2026-06-22,C1163,Prairies,"Monitor 27""",Displays,17,333.56,16.4,213.81,Direct Sales,R09,2026-08-13
+SO-005392,2026-06-22,C0989,Quebec,Wireless Mouse,Accessories,2,38.52,7.3,16.8,Direct Sales,R01,2026-07-24
+SO-005414,2026-06-24,C0209,Prairies,"Monitor 27""",Displays,-1,331.51,0.0,208.64,Online,,2026-06-24
+SO-005420,2026-06-25,C0933,Ontario,"Monitor 24""",Displays,6,233.26,13.5,152.53,Direct Sales,R04,2026-07-29
+SO-005429,2026-06-25,C0676,Prairies,Webcam HD,Accessories,1,88.74,10.0,43.77,Online,,2026-06-25
+SO-005447,2026-06-26,C1182,Atlantic,"Monitor 27""",Displays,9,334.25,39.8,210.64,Partner,R07,2026-07-19
+SO-005478,2026-06-28,C1180,Atlantic,Office Chair,Furniture,27,406.68,30.9,244.73,Partner,R07,2026-07-31
+SO-005506,2026-06-30,C1179,Atlantic,Office Chair,Furniture,20,397.54,33.7,239.53,Partner,R07,2026-07-25
+SO-005551,2026-07-03,C0990,Ontario,Mechanical Keyboard,Accessories,3,119.1,5.7,56.93,Direct Sales,R06,2026-07-30
+SO-005590,2026-07-06,C1144,Prairies,"Monitor 27""",Displays,20,332.14,9.3,207.42,Direct Sales,R09,2026-08-29
+SO-005595,2026-07-07,C0988,BC,Desk Lamp,Accessories,5,58.39,3.0,27.75,Direct Sales,R11,2026-08-03
+SO-005626,2026-07-09,C1143,Quebec,Office Chair,Furniture,19,392.47,9.1,238.19,Direct Sales,R03,2026-09-08
+SO-005673,2026-07-13,C0318,Ontario,Laptop Stand,Accessories,1,48.28,10.0,22.2,Online,,2026-07-13
+SO-005708,2026-07-16,C0908,Ontario,Webcam HD,Accessories,2,89.72,14.5,44.94,Direct Sales,R04,2026-08-11
+SO-005770,2026-07-21,C0990,Ontario,Laptop Stand,Accessories,2,49.04,4.6,21.38,Direct Sales,R06,2026-08-13
+SO-005807,2026-07-23,C0960,BC,Laptop Stand,Accessories,3,48.21,6.2,21.7,Direct Sales,R10,2026-08-23
+SO-005871,2026-07-29,C1086,Quebec,ErgoLift Standing Desk,Furniture,6,650.74,10.9,427.95,Direct Sales,R01,2026-08-27
+SO-005872,2026-07-30,C1122,Quebec,Webcam HD,Accessories,8,89.83,5.8,46.33,Direct Sales,R01,2026-08-31
+SO-005915,2026-08-02,C1028,Prairies,Office Chair,Furniture,5,399.71,5.6,239.45,Direct Sales,R08,2026-09-24
+SO-005919,2026-08-02,C1068,Ontario,Webcam HD,Accessories,4,89.56,3.9,45.73,Direct Sales,R06,2026-08-25
+SO-005971,2026-08-06,C1184,Ontario,ErgoLift Standing Desk,Furniture,9,644.93,11.3,415.83,Partner,R06,2026-09-02
+SO-006039,2026-08-11,C1186,BC,"Monitor 24""",Displays,-8,227.01,0.173,149.15,Partner,R10,2026-09-09
+SO-006061,2026-08-13,C1078,Ontario,Office Chair,Furniture,1,405.92,8.2,234.21,Direct Sales,R06,2026-09-05
+SO-006080,2026-08-14,C1137,Ontario,"Monitor 24""",Displays,12,226.37,8.1,152.61,Direct Sales,R05,2026-10-18
+SO-006137,2026-08-18,C0988,BC,Wireless Mouse,Accessories,4,38.4,9.9,16.56,Direct Sales,R11,2026-09-20
+SO-006173,2026-08-21,C1062,Atlantic,Office Chair,Furniture,5,400.1,23.1,246.48,Direct Sales,R07,2026-09-21
+SO-006176,2026-08-21,C0950,Quebec,Office Chair,Furniture,5,404.42,3.2,238.99,Direct Sales,R03,2026-09-19
+SO-006259,2026-08-27,C1085,Quebec,Webcam HD,Accessories,3,88.66,6.4,45.14,Direct Sales,R01,2026-10-01
+SO-006301,2026-08-31,C1204,Ontario,ErgoLift Standing Desk,Furniture,9,654.75,12.0,417.58,Partner,R05,2026-09-28
+SO-006314,2026-08-31,C1122,Quebec,"Monitor 24""",Displays,2,229.01,10.6,148.67,Direct Sales,R01,2026-10-04
+SO-006394,2026-09-07,C1071,Quebec,Webcam HD,Accessories,2,87.74,11.8,45.84,Direct Sales,R03,2026-10-07
+SO-006397,2026-09-07,C1113,Quebec,ErgoLift Standing Desk,Furniture,7,644.23,3.9,423.21,Direct Sales,R03,2026-10-01
+SO-006435,2026-09-10,C1114,Quebec,Office Chair,Furniture,3,405.36,4.9,246.0,Direct Sales,R03,2026-10-08
+SO-006464,2026-09-12,C0939,BC,Wireless Mouse,Accessories,4,39.67,11.8,17.36,Direct Sales,R10,2026-10-08
+SO-006575,2026-09-21,C1159,Quebec,Webcam HD,Accessories,19,87.75,16.8,45.17,Direct Sales,R03,
+SO-006672,2026-09-27,C1030,Quebec,Office Chair,Furniture,8,400.22,11.4,239.38,Direct Sales,R01,2026-10-31
+SO-006718,2026-09-29,C1136,Ontario,"Monitor 27""",Displays,27,335.49,18.7,215.51,Direct Sales,R04,
+SO-006725,2026-09-29,C1034,Prairies,Office Chair,Furniture,2,401.69,10.6,246.91,Direct Sales,R08,2026-10-26
+SO-006731,2026-09-30,C1107,BC,"Monitor 27""",Displays,3,334.79,12.9,205.8,Direct Sales,R10,
+SO-006742,2026-09-30,C1163,Prairies,"Monitor 24""",Displays,26,228.7,19.3,148.43,Direct Sales,R09,

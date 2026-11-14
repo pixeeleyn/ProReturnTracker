@@ -1,0 +1,264 @@
+return_id,order_id,return_date,quantity_returned,reason,refund_amount,order_date,customer_id,region,product,category,quantity,unit_price,discount,unit_cost,sales_channel,sales_rep,payment_date,segment,payment_terms,credit_limit
+RT-00001,SO-000019,2025-01-22,15,Changed mind,4333.66,2025-01-04,C1151,Ontario,"Monitor 27""",Displays,17.0,325.35,0.112,204.43,Direct Sales,R05,2025-03-06,Enterprise,Net 60,80000
+RT-00002,SO-000069,2025-01-24,1,Wrong item shipped,53.35,2025-01-10,C0426,Ontario,Desk Lamp,Accessories,1.0,59.28,0.1,27.78,Online,,2025-01-10,Consumer,Prepaid,0
+RT-00003,SO-000023,2025-01-28,2,Changed mind,665.0,2025-01-04,C0432,Quebec,"Monitor 27""",Displays,2.0,332.5,0.0,213.16,Online,,2025-01-04,Consumer,Prepaid,0
+RT-00005,SO-000110,2025-02-03,4,Changed mind,2374.92,2025-01-16,C1055,Ontario,ErgoLift Standing Desk,Furniture,4.0,661.17,0.102,414.61,Direct Sales,R04,2025-02-20,SMB,Net 30,5000
+RT-00006,SO-000160,2025-02-03,4,Damaged in transit,2279.92,2025-01-24,C1146,Ontario,ErgoLift Standing Desk,Furniture,20.0,648.44,0.121,409.47,Direct Sales,R06,2025-03-29,Enterprise,Net 60,80000
+RT-00007,SO-000170,2025-02-06,10,Changed mind,417.63,2025-01-25,C1175,Ontario,Laptop Stand,Accessories,19.0,48.96,0.147,21.34,Direct Sales,R06,2025-03-21,Enterprise,Net 60,40000
+RT-00008,SO-000137,2025-02-08,1,Changed mind,49.75,2025-01-20,C0891,Ontario,Laptop Stand,Accessories,1.0,49.75,0.0,22.57,Online,,2025-01-20,Consumer,Prepaid,0
+RT-00009,SO-000236,2025-02-11,2,Changed mind,621.13,2025-02-02,C1018,Quebec,"Monitor 27""",Displays,4.0,324.18,0.042,214.08,Direct Sales,R02,2025-04-15,SMB,Net 30,15000
+RT-00010,SO-000184,2025-02-13,23,Damaged in transit,12219.33,2025-01-27,C1138,Ontario,ErgoLift Standing Desk,Furniture,23.0,654.28,0.188,431.95,Direct Sales,R06,2025-03-21,Enterprise,Net 60,60000
+RT-00011,SO-000279,2025-02-17,2,Defective,411.3,2025-02-06,C0988,BC,"Monitor 24""",Displays,2.0,230.55,0.108,145.75,Direct Sales,R11,2025-03-13,SMB,Net 30,5000
+RT-00012,SO-000254,2025-02-26,5,Changed mind,430.73,2025-02-04,C0949,Prairies,Webcam HD,Accessories,5.0,89.27,0.035,44.32,Direct Sales,R09,2025-03-03,SMB,Net 30,10000
+RT-00013,SO-000261,2025-02-26,4,Damaged in transit,1505.75,2025-02-04,C0918,Prairies,Office Chair,Furniture,4.0,406.96,0.075,237.71,Direct Sales,R08,2025-03-16,SMB,Net 30,5000
+RT-00014,SO-000358,2025-03-01,2,Damaged in transit,1177.49,2025-02-19,C0973,BC,ErgoLift Standing Desk,Furniture,3.0,638.55,0.078,408.24,Direct Sales,R10,2025-03-22,SMB,Net 30,10000
+RT-00015,SO-000325,2025-03-09,3,Damaged in transit,104.15,2025-02-14,C1126,BC,Wireless Mouse,Accessories,7.0,38.92,0.108,17.03,Direct Sales,R10,2025-03-09,SMB,Net 30,5000
+RT-00016,SO-000402,2025-03-11,2,Changed mind,710.8,2025-02-26,C0625,Quebec,Office Chair,Furniture,2.0,394.89,0.1,238.21,Online,,2025-02-26,Consumer,Prepaid,0
+RT-00017,SO-000397,2025-03-19,21,Defective,678.92,2025-02-25,C1132,Quebec,Wireless Mouse,Accessories,21.0,39.14,0.174,,Direct Sales,R03,2025-04-30,Enterprise,Net 60,40000
+RT-00019,SO-000514,2025-03-21,2,Damaged in transit,1244.01,2025-03-13,C1040,BC,ErgoLift Standing Desk,Furniture,4.0,647.92,0.04,424.24,Direct Sales,R10,2025-04-05,SMB,Net 30,5000
+RT-00020,SO-000563,2025-03-29,12,Damaged in transit,6590.7,2025-03-19,C1186,BC,ErgoLift Standing Desk,Furniture,12.0,655.4,0.162,428.28,Partner,R10,2025-04-17,Reseller,Net 30,20000
+RT-00021,SO-000583,2025-04-04,1,Damaged in transit,140.07,2025-03-21,C0958,Prairies,USB-C Dock,Accessories,5.0,146.06,0.041,71.3,Direct Sales,R09,2025-04-25,SMB,Net 30,5000
+RT-00022,SO-000640,2025-04-20,14,Overstock / ordered in error,2930.11,2025-03-29,C1176,Atlantic,"Monitor 27""",Displays,26.0,332.74,0.371,204.84,Partner,R07,2025-05-01,Reseller,Net 30,20000
+RT-00023,SO-000765,2025-04-20,23,Defective,4367.03,2025-04-14,C1157,Ontario,"Monitor 24""",Displays,23.0,225.5,0.158,154.07,Direct Sales,R06,2025-06-18,Enterprise,Net 60,80000
+RT-00024,SO-000689,2025-04-21,2,Changed mind,239.52,2025-04-03,C1166,Ontario,USB-C Dock,Accessories,25.0,146.23,0.181,71.76,Direct Sales,R05,2025-06-01,Enterprise,Net 60,40000
+RT-00025,SO-000622,2025-04-23,15,Overstock / ordered in error,6481.56,2025-03-26,C1178,Atlantic,ErgoLift Standing Desk,Furniture,26.0,649.78,0.335,421.05,Partner,R07,2025-04-29,Reseller,Net 30,30000
+RT-00026,SO-000761,2025-04-26,11,Changed mind,427.01,2025-04-14,C1191,Prairies,Laptop Stand,Accessories,11.0,49.2,0.211,21.36,Partner,R08,2025-05-09,Reseller,Net 30,30000
+RT-00027,SO-000832,2025-04-28,1,Changed mind,52.25,2025-04-24,C0364,Ontario,Desk Lamp,Accessories,1.0,58.06,0.1,26.98,Online,,2025-04-24,Consumer,Prepaid,0
+RT-00028,SO-000841,2025-05-02,1,Changed mind,118.03,2025-04-25,C0426,Ontario,Mechanical Keyboard,Accessories,1.0,118.03,0.0,56.26,Online,,2025-04-25,Consumer,Prepaid,0
+RT-00029,SO-000878,2025-05-07,2,Damaged in transit,1127.89,2025-04-30,C0991,Atlantic,ErgoLift Standing Desk,Furniture,2.0,643.77,0.124,429.08,Direct Sales,R07,2025-05-27,SMB,Net 30,10000
+RT-00030,SO-000918,2025-05-22,4,Changed mind,872.08,2025-05-05,C1057,Ontario,"Monitor 24""",Displays,4.0,225.46,0.033,,Direct Sales,R06,2025-06-01,SMB,Net 30,5000
+RT-00031,SO-001063,2025-05-25,3,Damaged in transit,1902.45,2025-05-22,C1029,BC,ErgoLift Standing Desk,Furniture,3.0,661.26,0.041,430.51,Direct Sales,R11,2025-06-17,SMB,Net 30,15000
+RT-00032,SO-001003,2025-05-25,13,Defective,3538.92,2025-05-15,C1177,Atlantic,"Monitor 27""",Displays,15.0,326.8,0.167,212.79,Partner,R07,2025-06-06,Reseller,Net 30,30000
+RT-00033,SO-001029,2025-05-26,4,Damaged in transit,2216.27,2025-05-18,C1102,Prairies,ErgoLift Standing Desk,Furniture,4.0,636.86,0.13,418.54,Direct Sales,R08,2025-06-09,SMB,Net 30,5000
+RT-00034,SO-001005,2025-06-03,4,Damaged in transit,2424.23,2025-05-15,C0976,Prairies,ErgoLift Standing Desk,Furniture,4.0,642.01,0.056,419.29,Direct Sales,R08,2025-06-08,SMB,Net 30,15000
+RT-00035,SO-001113,2025-06-04,3,Damaged in transit,1716.88,2025-05-28,C1014,Prairies,ErgoLift Standing Desk,Furniture,3.0,636.59,0.101,427.8,Direct Sales,R08,2025-06-26,SMB,Net 30,5000
+RT-00036,SO-001121,2025-06-12,2,Defective,613.04,2025-05-28,C0914,Quebec,"Monitor 27""",Displays,4.0,332.45,0.078,206.6,Direct Sales,R03,2025-06-21,SMB,Net 30,15000
+RT-00037,SO-001197,2025-06-15,1,Damaged in transit,616.89,2025-06-07,C1081,BC,ErgoLift Standing Desk,Furniture,1.0,646.64,0.046,416.41,Direct Sales,R11,2025-07-12,SMB,Net 30,10000
+RT-00038,SO-001263,2025-06-19,4,Defective,138.8,2025-06-14,C0997,Atlantic,Wireless Mouse,Accessories,4.0,39.21,0.115,17.29,Direct Sales,R07,2025-07-08,SMB,Net 30,5000
+RT-00039,SO-001219,2025-06-23,17,Damaged in transit,9289.03,2025-06-09,C1134,Prairies,ErgoLift Standing Desk,Furniture,17.0,639.08,0.145,424.47,Direct Sales,R08,2025-10-14,Enterprise,Net 60,60000
+RT-00040,SO-001295,2025-06-23,2,Changed mind,73.02,2025-06-17,C1082,Ontario,Wireless Mouse,Accessories,3.0,39.43,0.074,16.51,Direct Sales,R05,2025-07-15,SMB,Net 30,5000
+RT-00041,SO-001171,2025-06-28,7,Changed mind,584.28,2025-06-04,C0904,Quebec,Webcam HD,Accessories,7.0,87.77,0.049,44.75,Direct Sales,R01,2025-06-29,SMB,Net 30,5000
+RT-00042,SO-001261,2025-06-30,3,Defective,1781.88,2025-06-14,C0954,Atlantic,ErgoLift Standing Desk,Furniture,4.0,637.98,0.069,410.88,Direct Sales,R07,2025-08-11,SMB,Net 30,10000
+RT-00043,SO-001264,2025-07-01,2,Changed mind,164.94,2025-06-14,C1076,BC,Webcam HD,Accessories,2.0,90.33,0.087,45.05,Direct Sales,R11,2025-07-09,SMB,Net 30,15000
+RT-00044,SO-001372,2025-07-08,2,Damaged in transit,1138.2,2025-06-25,C0970,Ontario,ErgoLift Standing Desk,Furniture,2.0,637.29,0.107,407.74,Direct Sales,R04,2025-07-23,SMB,Net 30,5000
+RT-00045,SO-001457,2025-07-09,4,Damaged in transit,2419.82,2025-07-04,C1069,Ontario,ErgoLift Standing Desk,Furniture,4.0,646.32,0.064,421.79,Direct Sales,R05,2025-07-29,SMB,Net 30,10000
+RT-00046,SO-001415,2025-07-10,15,Damaged in transit,8329.0,2025-06-29,C1151,Ontario,ErgoLift Standing Desk,Furniture,15.0,657.12,0.155,422.83,Direct Sales,R05,2025-10-03,Enterprise,Net 60,80000
+RT-00047,SO-001334,2025-07-10,6,Damaged in transit,201.49,2025-06-21,C0931,Atlantic,Laptop Stand,Accessories,6.0,48.32,0.305,22.03,Direct Sales,R07,2025-07-18,SMB,Net 30,5000
+RT-00048,SO-001388,2025-07-15,3,Wrong item shipped,159.19,2025-06-27,C1080,Ontario,Desk Lamp,Accessories,4.0,59.69,0.111,27.67,Direct Sales,R04,2025-07-22,SMB,Net 30,10000
+RT-00051,SO-001571,2025-07-19,1,Changed mind,49.33,2025-07-15,C0721,Quebec,Laptop Stand,Accessories,1.0,49.33,0.0,22.05,Online,,2025-07-15,Consumer,Prepaid,0
+RT-00052,SO-001401,2025-07-21,14,Overstock / ordered in error,6429.55,2025-06-28,C1178,Atlantic,ErgoLift Standing Desk,Furniture,23.0,658.9,0.303,412.17,Partner,R07,2025-07-31,Reseller,Net 30,30000
+RT-00053,SO-001448,2025-07-22,1,Defective,140.21,2025-07-03,C1128,Ontario,USB-C Dock,Accessories,4.0,148.21,0.054,73.09,Direct Sales,R05,2025-08-05,SMB,Net 30,10000
+RT-00054,SO-001391,2025-07-27,13,Overstock / ordered in error,1965.02,2025-06-27,C1190,Atlantic,"Monitor 24""",Displays,26.0,226.62,0.333,147.95,Partner,R07,2025-07-19,Reseller,Net 30,30000
+RT-00055,SO-001481,2025-07-28,3,Damaged in transit,937.4,2025-07-07,C0946,BC,"Monitor 27""",Displays,3.0,332.41,0.06,209.94,Direct Sales,R11,2025-08-04,SMB,Net 30,10000
+RT-00056,SO-001658,2025-07-31,2,Changed mind,442.52,2025-07-27,C0944,Quebec,"Monitor 24""",Displays,4.0,233.15,0.051,147.74,Direct Sales,R03,2025-08-21,SMB,Net 30,15000
+RT-00057,SO-001505,2025-07-31,1,Damaged in transit,639.12,2025-07-09,C0803,Quebec,ErgoLift Standing Desk,Furniture,1.0,639.12,0.0,421.91,Online,,2025-07-09,Consumer,Prepaid,0
+RT-00058,SO-001687,2025-08-06,6,Damaged in transit,2160.88,2025-07-31,C0929,Atlantic,Office Chair,Furniture,6.0,391.89,0.081,239.77,Direct Sales,R07,2025-08-28,SMB,Net 30,10000
+RT-00059,SO-001397,2025-08-09,15,Overstock / ordered in error,3297.0,2025-06-28,C1177,Atlantic,"Monitor 27""",Displays,21.0,325.63,0.325,216.17,Partner,R07,2025-09-19,Reseller,Net 30,30000
+RT-00060,SO-001589,2025-08-09,1,Damaged in transit,599.54,2025-07-18,C0988,BC,ErgoLift Standing Desk,Furniture,4.0,652.38,0.081,408.82,Direct Sales,R11,2025-08-12,SMB,Net 30,5000
+RT-00061,SO-001693,2025-08-09,3,Changed mind,138.18,2025-08-01,C1068,Ontario,Laptop Stand,Accessories,3.0,48.03,0.041,22.1,Direct Sales,R06,2025-08-23,SMB,Net 30,15000
+RT-00062,SO-001617,2025-08-11,1,Damaged in transit,616.24,2025-07-22,C0728,Quebec,ErgoLift Standing Desk,Furniture,1.0,648.67,0.05,430.88,Online,,2025-07-22,Consumer,Prepaid,0
+RT-00063,SO-001427,2025-08-13,13,Overstock / ordered in error,2761.07,2025-06-30,C1176,Atlantic,"Monitor 27""",Displays,29.0,332.9,0.362,207.9,Partner,R07,2025-07-26,Reseller,Net 30,20000
+RT-00064,SO-001657,2025-08-15,6,Damaged in transit,455.13,2025-07-26,C1189,Ontario,Webcam HD,Accessories,15.0,87.29,0.131,45.23,Partner,R05,2025-08-24,Reseller,Net 30,20000
+RT-00065,SO-001763,2025-08-25,5,Damaged in transit,2878.11,2025-08-08,C1141,BC,ErgoLift Standing Desk,Furniture,13.0,659.36,0.127,421.9,Direct Sales,R10,2025-09-30,Enterprise,Net 60,60000
+RT-00066,SO-001860,2025-08-27,2,Damaged in transit,1218.29,2025-08-18,C1067,BC,ErgoLift Standing Desk,Furniture,2.0,652.89,0.067,423.1,Direct Sales,R10,2025-09-11,SMB,Net 30,5000
+RT-00067,SO-001855,2025-08-29,13,Wrong item shipped,3628.94,2025-08-17,C1165,Prairies,"Monitor 27""",Displays,22.0,326.49,0.145,204.51,Direct Sales,R09,2025-10-18,Enterprise,Net 60,40000
+RT-00068,SO-001948,2025-09-03,2,Damaged in transit,1134.43,2025-08-28,C0903,Prairies,ErgoLift Standing Desk,Furniture,2.0,643.1,0.118,430.59,Direct Sales,R08,2025-09-30,SMB,Net 30,15000
+RT-00069,SO-001955,2025-09-07,2,Damaged in transit,1255.66,2025-08-28,C1010,Ontario,ErgoLift Standing Desk,Furniture,2.0,660.18,0.049,412.3,Direct Sales,R06,2025-10-01,SMB,Net 30,15000
+RT-00070,SO-001905,2025-09-11,14,Changed mind,4865.55,2025-08-22,C1160,Quebec,Office Chair,Furniture,14.0,395.38,0.121,240.96,Direct Sales,R03,2025-10-17,Enterprise,Net 60,40000
+RT-00071,SO-001983,2025-09-15,11,Damaged in transit,6789.13,2025-08-31,C1154,BC,ErgoLift Standing Desk,Furniture,14.0,660.1,0.065,415.71,Direct Sales,R11,2025-10-24,Enterprise,Net 60,60000
+RT-00072,SO-001995,2025-09-25,7,Wrong item shipped,1282.95,2025-09-02,C1189,Ontario,"Monitor 24""",Displays,11.0,231.12,0.207,149.57,Partner,R05,2025-09-29,Reseller,Net 30,20000
+RT-00073,SO-002043,2025-09-26,3,Changed mind,1797.76,2025-09-06,C1002,Quebec,ErgoLift Standing Desk,Furniture,3.0,654.92,0.085,429.2,Direct Sales,R01,2025-10-08,SMB,Net 30,10000
+RT-00074,SO-002161,2025-10-02,1,Damaged in transit,580.01,2025-09-18,C1057,Ontario,ErgoLift Standing Desk,Furniture,1.0,644.46,0.1,414.27,Direct Sales,R06,2025-10-16,SMB,Net 30,5000
+RT-00075,SO-002176,2025-10-05,3,Damaged in transit,1135.67,2025-09-20,C1005,Ontario,Office Chair,Furniture,6.0,400.59,0.055,233.38,Direct Sales,R05,2025-11-10,SMB,Net 30,5000
+RT-00076,SO-002152,2025-10-06,4,Damaged in transit,2358.2,2025-09-17,C1046,Atlantic,ErgoLift Standing Desk,Furniture,4.0,660.19,0.107,431.25,Direct Sales,R07,2025-10-10,SMB,Net 30,15000
+RT-00077,SO-002306,2025-10-07,1,Changed mind,109.4,2025-10-03,C0989,Quebec,Mechanical Keyboard,Accessories,1.0,117.76,0.071,59.18,Direct Sales,R01,2025-10-29,SMB,Net 30,10000
+RT-00078,SO-002238,2025-10-13,1,Defective,143.92,2025-09-27,C0310,Ontario,USB-C Dock,Accessories,1.0,151.49,0.05,73.76,Online,,2025-09-27,Consumer,Prepaid,0
+RT-00079,SO-002194,2025-10-13,5,Damaged in transit,2662.13,2025-09-23,C1201,Ontario,ErgoLift Standing Desk,Furniture,10.0,642.25,0.171,421.89,Partner,R06,2025-10-19,Reseller,Net 30,30000
+RT-00080,SO-002274,2025-10-14,1,Damaged in transit,585.96,2025-09-30,C0024,Ontario,ErgoLift Standing Desk,Furniture,1.0,651.07,0.1,410.12,Online,,2025-09-30,Consumer,Prepaid,0
+RT-00081,SO-002402,2025-10-18,15,Damaged in transit,1070.14,2025-10-12,C1203,Atlantic,Webcam HD,Accessories,15.0,87.43,0.184,44.43,Partner,R07,2025-12-15,Reseller,Net 30,20000
+RT-00082,SO-002424,2025-10-20,18,Damaged in transit,9679.09,2025-10-14,C1136,Ontario,ErgoLift Standing Desk,Furniture,18.0,639.39,0.159,419.91,Direct Sales,R04,2025-12-10,Enterprise,Net 60,60000
+RT-00083,SO-002240,2025-10-21,15,Overstock / ordered in error,6888.0,2025-09-28,C1181,Atlantic,ErgoLift Standing Desk,Furniture,22.0,656.0,0.3,422.04,Partner,R07,2025-10-23,Reseller,Net 30,30000
+RT-00084,SO-002244,2025-10-23,10,Overstock / ordered in error,2261.8,2025-09-28,C1178,Atlantic,"Monitor 27""",Displays,23.0,324.04,0.302,208.93,Partner,R07,2025-10-30,Reseller,Net 30,30000
+RT-00085,SO-002273,2025-10-23,11,Overstock / ordered in error,2957.66,2025-09-30,C1177,Atlantic,Office Chair,Furniture,20.0,391.38,0.313,239.44,Partner,R07,2025-10-30,Reseller,Net 30,30000
+RT-00086,SO-002278,2025-10-23,21,Overstock / ordered in error,5842.7,2025-09-30,C1178,Atlantic,Office Chair,Furniture,30.0,396.33,0.298,240.67,Partner,R07,2025-10-27,Reseller,Net 30,30000
+RT-00087,SO-002389,2025-10-23,1,Defective,49.01,2025-10-11,C1087,Atlantic,Desk Lamp,Accessories,3.0,58.77,0.166,26.78,Direct Sales,R07,2025-11-09,SMB,Net 30,15000
+RT-00088,SO-002408,2025-10-23,15,Damaged in transit,8550.65,2025-10-13,C1140,Quebec,ErgoLift Standing Desk,Furniture,15.0,654.47,0.129,428.41,Direct Sales,R02,2025-12-15,Enterprise,Net 60,40000
+RT-00090,SO-002489,2025-10-28,2,Damaged in transit,115.9,2025-10-21,C0444,Ontario,Desk Lamp,Accessories,4.0,57.95,0.0,26.49,Online,,2025-10-21,Consumer,Prepaid,0
+RT-00091,SO-002483,2025-10-29,11,Changed mind,1848.0,2025-10-21,C1188,Atlantic,"Monitor 24""",Displays,15.0,224.9,0.253,146.17,Partner,R07,2025-11-15,Reseller,Net 30,30000
+RT-00093,SO-002225,2025-10-29,17,Overstock / ordered in error,4117.77,2025-09-26,C1180,Atlantic,Office Chair,Furniture,25.0,392.58,0.383,243.61,Partner,R07,2025-10-21,Reseller,Net 30,30000
+RT-00094,SO-002378,2025-10-30,1,Defective,325.77,2025-10-10,C0129,Atlantic,"Monitor 27""",Displays,1.0,325.77,0.0,204.12,Online,,2025-10-10,Consumer,Prepaid,0
+RT-00095,SO-002245,2025-11-01,17,Overstock / ordered in error,1695.51,2025-09-28,C1177,Atlantic,USB-C Dock,Accessories,27.0,146.67,0.32,71.12,Partner,R07,2025-10-28,Reseller,Net 30,30000
+RT-00096,SO-002548,2025-11-03,17,Changed mind,1253.48,2025-10-27,C1161,Quebec,Webcam HD,Accessories,17.0,89.92,0.18,46.05,Direct Sales,R01,2025-12-24,Enterprise,Net 60,60000
+RT-00097,SO-002256,2025-11-08,18,Overstock / ordered in error,2738.98,2025-09-28,C1180,Atlantic,"Monitor 24""",Displays,28.0,226.1,0.327,147.96,Partner,R07,2025-10-30,Reseller,Net 30,30000
+RT-00098,SO-002614,2025-11-12,2,Wrong item shipped,594.65,2025-11-03,C0955,Ontario,"Monitor 27""",Displays,2.0,334.45,0.111,209.08,Direct Sales,R05,2025-12-19,SMB,Net 30,15000
+RT-00099,SO-002545,2025-11-13,4,Damaged in transit,2297.25,2025-10-27,C1059,Prairies,ErgoLift Standing Desk,Furniture,4.0,640.26,0.103,419.44,Direct Sales,R08,2025-11-19,SMB,Net 30,5000
+RT-00100,SO-002617,2025-11-13,8,Damaged in transit,4690.13,2025-11-03,C1156,BC,ErgoLift Standing Desk,Furniture,15.0,660.21,0.112,425.25,Direct Sales,R10,2026-03-18,Enterprise,Net 60,60000
+RT-00101,SO-002643,2025-11-14,3,Damaged in transit,106.8,2025-11-05,C0925,Ontario,Wireless Mouse,Accessories,4.0,39.12,0.09,17.43,Direct Sales,R04,2025-11-29,SMB,Net 30,5000
+RT-00102,SO-002583,2025-11-21,2,Changed mind,77.16,2025-10-31,C0386,Prairies,Wireless Mouse,Accessories,3.0,38.58,0.0,16.66,Online,,2025-10-31,Consumer,Prepaid,0
+RT-00103,SO-002715,2025-11-24,9,Defective,1586.35,2025-11-12,C1177,Atlantic,"Monitor 24""",Displays,9.0,233.15,0.244,150.4,Partner,R07,2025-12-09,Reseller,Net 30,30000
+RT-00104,SO-002665,2025-11-28,2,Changed mind,175.44,2025-11-08,C1099,Ontario,Webcam HD,Accessories,4.0,87.72,0.0,46.01,Direct Sales,R05,2025-12-07,SMB,Net 30,5000
+RT-00105,SO-002693,2025-11-30,11,Changed mind,354.65,2025-11-11,C1184,Ontario,Wireless Mouse,Accessories,11.0,39.08,0.175,16.49,Partner,R06,2025-12-06,Reseller,Net 30,20000
+RT-00106,SO-002809,2025-12-05,1,Damaged in transit,611.86,2025-11-21,C1013,Ontario,ErgoLift Standing Desk,Furniture,3.0,652.3,0.062,421.25,Direct Sales,R05,2025-12-14,SMB,Net 30,10000
+RT-00107,SO-002788,2025-12-08,3,Defective,315.11,2025-11-19,C0909,Quebec,Mechanical Keyboard,Accessories,3.0,118.15,0.111,56.4,Direct Sales,R01,2025-12-24,SMB,Net 30,15000
+RT-00108,SO-003003,2025-12-17,17,Damaged in transit,9852.99,2025-12-10,C1172,Quebec,ErgoLift Standing Desk,Furniture,17.0,637.61,0.091,422.18,Direct Sales,R03,2026-02-06,Enterprise,Net 60,40000
+RT-00109,SO-002903,2025-12-19,1,Changed mind,532.56,2025-12-01,C1171,Atlantic,ErgoLift Standing Desk,Furniture,25.0,660.75,0.194,411.08,Direct Sales,R07,2026-01-22,Enterprise,Net 60,40000
+RT-00111,SO-002969,2025-12-25,2,Changed mind,231.05,2025-12-06,C0989,Quebec,Mechanical Keyboard,Accessories,2.0,121.35,0.048,57.21,Direct Sales,R01,2026-01-05,SMB,Net 30,10000
+RT-00112,SO-003094,2026-01-08,18,Damaged in transit,6216.34,2025-12-18,C1134,Prairies,Office Chair,Furniture,21.0,398.79,0.134,237.32,Direct Sales,R08,2026-04-16,Enterprise,Net 60,60000
+RT-00113,SO-003147,2026-01-08,2,Wrong item shipped,71.51,2025-12-24,C0121,Ontario,Wireless Mouse,Accessories,2.0,39.73,0.1,16.6,Online,,2025-12-24,Consumer,Prepaid,0
+RT-00114,SO-003252,2026-01-13,7,Damaged in transit,4191.65,2026-01-01,C1127,Quebec,ErgoLift Standing Desk,Furniture,7.0,658.03,0.09,420.21,Direct Sales,R03,2026-02-04,SMB,Net 30,10000
+RT-00115,SO-003215,2026-01-13,2,Damaged in transit,1135.17,2025-12-29,C1095,Ontario,ErgoLift Standing Desk,Furniture,2.0,661.52,0.142,411.05,Direct Sales,R04,2026-01-25,SMB,Net 30,15000
+RT-00116,SO-003319,2026-01-16,4,Changed mind,871.24,2026-01-08,C1080,Ontario,"Monitor 24""",Displays,4.0,226.65,0.039,151.1,Direct Sales,R04,2026-02-06,SMB,Net 30,10000
+RT-00117,SO-003396,2026-01-18,15,Changed mind,514.7,2026-01-14,C1161,Quebec,Wireless Mouse,Accessories,22.0,38.86,0.117,17.14,Direct Sales,R01,2026-03-07,Enterprise,Net 60,60000
+RT-00118,SO-003301,2026-01-20,2,Damaged in transit,75.17,2026-01-06,C0966,Ontario,Wireless Mouse,Accessories,7.0,39.19,0.041,16.71,Direct Sales,R04,2026-02-07,SMB,Net 30,15000
+RT-00119,SO-003334,2026-01-22,4,Wrong item shipped,1196.61,2026-01-08,C0970,Ontario,"Monitor 27""",Displays,4.0,324.46,0.078,209.0,Direct Sales,R04,2026-03-05,SMB,Net 30,5000
+RT-00120,SO-003191,2026-01-23,20,Overstock / ordered in error,3206.76,2025-12-27,C1203,Atlantic,"Monitor 24""",Displays,29.0,230.04,0.303,146.89,Partner,R07,2026-01-31,Reseller,Net 30,20000
+RT-00121,SO-003177,2026-01-24,17,Changed mind,3458.81,2025-12-26,C1176,Atlantic,"Monitor 27""",Displays,26.0,332.45,0.388,210.42,Partner,R07,2026-03-25,Reseller,Net 30,20000
+RT-00122,SO-003178,2026-01-24,10,Overstock / ordered in error,2227.52,2025-12-26,C1178,Atlantic,"Monitor 27""",Displays,24.0,331.97,0.329,212.19,Partner,R07,2026-01-27,Reseller,Net 30,30000
+RT-00123,SO-003361,2026-01-29,19,Defective,1816.96,2026-01-11,C1134,Prairies,Mechanical Keyboard,Accessories,19.0,118.5,0.193,58.03,Direct Sales,R08,2026-06-29,Enterprise,Net 60,60000
+RT-00124,SO-003513,2026-01-29,3,Defective,1736.86,2026-01-25,C1126,BC,ErgoLift Standing Desk,Furniture,3.0,639.02,0.094,412.46,Direct Sales,R10,2026-02-18,SMB,Net 30,5000
+RT-00125,SO-003221,2026-01-31,15,Overstock / ordered in error,3019.91,2025-12-30,C1190,Atlantic,"Monitor 27""",Displays,29.0,326.83,0.384,204.02,Partner,R07,2026-01-23,Reseller,Net 30,30000
+RT-00126,SO-003181,2026-01-31,12,Overstock / ordered in error,2530.44,2025-12-27,C1181,Atlantic,"Monitor 27""",Displays,17.0,326.93,0.355,209.58,Partner,R07,2026-01-20,Reseller,Net 30,30000
+RT-00127,SO-003512,2026-02-02,8,Wrong item shipped,1651.19,2026-01-25,C1088,Quebec,"Monitor 24""",Displays,8.0,228.57,0.097,146.68,Direct Sales,R03,2026-03-06,SMB,Net 30,5000
+RT-00128,SO-003180,2026-02-03,13,Overstock / ordered in error,5568.65,2025-12-26,C1188,Atlantic,ErgoLift Standing Desk,Furniture,24.0,658.0,0.349,426.73,Partner,R07,2026-01-23,Reseller,Net 30,30000
+RT-00129,SO-003553,2026-02-06,2,Wrong item shipped,76.78,2026-01-29,C0752,Ontario,Wireless Mouse,Accessories,2.0,38.39,0.0,16.72,Online,,2026-01-29,Consumer,Prepaid,0
+RT-00130,SO-003526,2026-02-07,5,Defective,224.35,2026-01-26,C0910,Quebec,Laptop Stand,Accessories,5.0,49.2,0.088,22.65,Direct Sales,R01,2026-02-22,SMB,Net 30,10000
+RT-00131,SO-003197,2026-02-08,12,Overstock / ordered in error,1265.99,2025-12-28,C1181,Atlantic,USB-C Dock,Accessories,20.0,149.01,0.292,73.64,Partner,R07,2026-01-25,Reseller,Net 30,30000
+RT-00132,SO-003616,2026-02-08,6,Wrong item shipped,676.35,2026-02-05,C0904,Quebec,Mechanical Keyboard,Accessories,6.0,117.79,0.043,56.85,Direct Sales,R01,2026-03-05,SMB,Net 30,5000
+RT-00133,SO-003209,2026-02-11,21,Overstock / ordered in error,2951.05,2025-12-29,C1180,Atlantic,"Monitor 24""",Displays,33.0,228.87,0.386,151.18,Partner,R07,2026-02-09,Reseller,Net 30,30000
+RT-00134,SO-003554,2026-02-14,1,Wrong item shipped,633.9,2026-01-29,C1078,Ontario,ErgoLift Standing Desk,Furniture,3.0,658.94,0.038,407.75,Direct Sales,R06,2026-02-23,SMB,Net 30,10000
+RT-00136,SO-003662,2026-02-22,1,Damaged in transit,591.85,2026-02-09,C0946,BC,ErgoLift Standing Desk,Furniture,4.0,640.53,0.076,420.85,Direct Sales,R11,2026-03-05,SMB,Net 30,10000
+RT-00137,SO-003772,2026-02-24,4,Damaged in transit,2516.95,2026-02-17,C0936,Quebec,ErgoLift Standing Desk,Furniture,4.0,650.04,0.032,430.48,Direct Sales,R02,2026-03-18,SMB,Net 30,15000
+RT-00138,SO-003676,2026-02-25,10,Defective,1552.77,2026-02-09,C1182,Atlantic,"Monitor 24""",Displays,10.0,230.04,0.325,151.73,Partner,R07,2026-03-14,Reseller,Net 30,30000
+RT-00139,SO-003870,2026-02-28,4,Wrong item shipped,358.0,2026-02-25,C0966,Ontario,Webcam HD,Accessories,4.0,89.95,0.005,44.08,Direct Sales,R04,2026-05-01,SMB,Net 30,15000
+RT-00140,SO-003844,2026-03-02,1,Damaged in transit,538.66,2026-02-24,C1119,Prairies,ErgoLift Standing Desk,Furniture,3.0,660.93,0.185,429.14,Direct Sales,R09,2026-03-30,SMB,Net 30,5000
+RT-00141,SO-003729,2026-03-04,2,Damaged in transit,1221.23,2026-02-13,C0978,Quebec,ErgoLift Standing Desk,Furniture,2.0,646.84,0.056,417.55,Direct Sales,R03,2026-04-17,SMB,Net 30,5000
+RT-00142,SO-003922,2026-03-06,7,Defective,4148.67,2026-03-02,C1008,Ontario,ErgoLift Standing Desk,Furniture,7.0,640.03,0.074,423.96,Direct Sales,R06,2026-03-28,SMB,Net 30,5000
+RT-00143,SO-003700,2026-03-06,1,Damaged in transit,659.07,2026-02-11,C0882,Ontario,ErgoLift Standing Desk,Furniture,1.0,659.07,0.0,419.68,Online,,2026-02-11,Consumer,Prepaid,0
+RT-00144,SO-003951,2026-03-09,1,Damaged in transit,645.83,2026-03-04,C0355,Quebec,ErgoLift Standing Desk,Furniture,1.0,645.83,0.0,408.07,Online,,2026-03-04,Consumer,Prepaid,0
+RT-00145,SO-004018,2026-03-13,2,Damaged in transit,1297.32,2026-03-10,C0747,BC,ErgoLift Standing Desk,Furniture,2.0,648.66,0.0,428.55,Online,,2026-03-10,Consumer,Prepaid,0
+RT-00146,SO-003827,2026-03-17,1,Defective,313.92,2026-02-22,C1112,Quebec,"Monitor 27""",Displays,3.0,322.63,0.027,216.05,Direct Sales,R02,2026-03-28,SMB,Net 30,15000
+RT-00147,SO-003992,2026-03-17,8,Damaged in transit,1535.81,2026-03-09,C1163,Prairies,"Monitor 24""",Displays,18.0,227.73,0.157,148.56,Direct Sales,R09,2026-05-10,Enterprise,Net 60,60000
+RT-00148,SO-003868,2026-03-21,1,Damaged in transit,37.32,2026-02-25,C0426,Ontario,Wireless Mouse,Accessories,1.0,39.28,0.05,17.29,Online,,2026-02-25,Consumer,Prepaid,0
+RT-00149,SO-004071,2026-03-22,2,Defective,457.14,2026-03-14,C0794,Ontario,"Monitor 24""",Displays,2.0,228.57,0.0,148.28,Online,,2026-03-14,Consumer,Prepaid,0
+RT-00150,SO-004136,2026-03-23,3,Wrong item shipped,304.93,2026-03-20,C1204,Ontario,Mechanical Keyboard,Accessories,13.0,120.43,0.156,59.31,Partner,R05,2026-04-16,Reseller,Net 30,30000
+RT-00151,SO-004057,2026-03-24,4,Defective,1238.83,2026-03-13,C0927,Atlantic,Office Chair,Furniture,4.0,391.54,0.209,234.82,Direct Sales,R07,2026-04-07,SMB,Net 30,10000
+RT-00152,SO-004208,2026-04-06,2,Damaged in transit,699.6,2026-03-26,C0975,Ontario,Office Chair,Furniture,3.0,392.59,0.109,241.65,Direct Sales,R06,2026-04-21,SMB,Net 30,5000
+RT-00153,SO-004093,2026-04-08,3,Defective,175.05,2026-03-16,C1102,Prairies,Desk Lamp,Accessories,3.0,59.18,0.014,26.84,Direct Sales,R08,2026-04-19,SMB,Net 30,5000
+RT-00154,SO-004323,2026-04-12,7,Changed mind,954.89,2026-04-02,C1085,Quebec,USB-C Dock,Accessories,7.0,151.57,0.1,74.11,Direct Sales,R01,2026-06-17,SMB,Net 30,15000
+RT-00155,SO-004355,2026-04-13,9,Wrong item shipped,364.25,2026-04-05,C1177,Atlantic,Desk Lamp,Accessories,10.0,57.9,0.301,27.18,Partner,R07,2026-04-29,Reseller,Net 30,30000
+RT-00156,SO-004194,2026-04-14,1,Damaged in transit,326.61,2026-03-25,C0463,Ontario,"Monitor 27""",Displays,1.0,326.61,0.0,207.67,Online,,2026-03-25,Consumer,Prepaid,0
+RT-00157,SO-004308,2026-04-16,1,Damaged in transit,638.61,2026-04-01,C0367,Prairies,ErgoLift Standing Desk,Furniture,1.0,638.61,0.0,420.57,Online,,2026-04-01,Consumer,Prepaid,0
+RT-00158,SO-004220,2026-04-18,15,Overstock / ordered in error,2428.26,2026-03-27,C1177,Atlantic,"Monitor 24""",Displays,22.0,225.78,0.283,147.17,Partner,R07,2026-04-30,Reseller,Net 30,30000
+RT-00159,SO-004278,2026-04-19,18,Overstock / ordered in error,1682.83,2026-03-30,C1181,Atlantic,USB-C Dock,Accessories,25.0,148.87,0.372,73.94,Partner,R07,2026-06-18,Reseller,Net 30,30000
+RT-00160,SO-004471,2026-04-19,3,Changed mind,1802.65,2026-04-13,C1080,Ontario,ErgoLift Standing Desk,Furniture,3.0,637.88,0.058,427.72,Direct Sales,R04,2026-05-08,SMB,Net 30,10000
+RT-00161,SO-004359,2026-04-20,10,Changed mind,2968.57,2026-04-05,C1160,Quebec,"Monitor 27""",Displays,18.0,324.08,0.084,210.56,Direct Sales,R03,2026-05-28,Enterprise,Net 60,40000
+RT-00162,SO-004215,2026-04-20,8,Overstock / ordered in error,2327.79,2026-03-26,C1178,Atlantic,Office Chair,Furniture,20.0,399.69,0.272,232.96,Partner,R07,2026-04-20,Reseller,Net 30,30000
+RT-00163,SO-004416,2026-04-22,15,Damaged in transit,8480.57,2026-04-10,C1134,Prairies,ErgoLift Standing Desk,Furniture,15.0,639.56,0.116,411.18,Direct Sales,R08,2026-09-06,Enterprise,Net 60,60000
+RT-00164,SO-004365,2026-04-23,1,Changed mind,225.87,2026-04-05,C0033,Atlantic,"Monitor 24""",Displays,1.0,225.87,0.0,146.6,Online,,2026-04-05,Consumer,Prepaid,0
+RT-00165,SO-004302,2026-04-24,5,Changed mind,543.51,2026-04-01,C0999,Quebec,Mechanical Keyboard,Accessories,5.0,119.19,0.088,57.47,Direct Sales,R02,2026-04-25,SMB,Net 30,5000
+RT-00166,SO-004417,2026-04-25,2,Changed mind,226.58,2026-04-10,C0978,Quebec,Mechanical Keyboard,Accessories,2.0,119.0,0.048,58.76,Direct Sales,R03,2026-05-03,SMB,Net 30,5000
+RT-00167,SO-004233,2026-04-29,20,Overstock / ordered in error,4111.62,2026-03-28,C1190,Atlantic,"Monitor 27""",Displays,29.0,328.93,0.375,207.92,Partner,R07,2026-05-01,Reseller,Net 30,30000
+RT-00168,SO-004374,2026-04-29,10,Damaged in transit,5447.55,2026-04-06,C1198,Prairies,ErgoLift Standing Desk,Furniture,10.0,637.14,0.145,,Partner,R08,2026-05-11,Reseller,Net 30,30000
+RT-00169,SO-004531,2026-04-29,2,Changed mind,167.59,2026-04-18,C0948,Quebec,Webcam HD,Accessories,2.0,89.24,0.061,44.05,Direct Sales,R01,2026-05-20,SMB,Net 30,10000
+RT-00170,SO-004228,2026-05-01,11,Overstock / ordered in error,2861.61,2026-03-27,C1180,Atlantic,Office Chair,Furniture,27.0,399.61,0.349,233.23,Partner,R07,2026-05-13,Reseller,Net 30,30000
+RT-00171,SO-004617,2026-05-01,9,Changed mind,4903.52,2026-04-25,C1204,Ontario,ErgoLift Standing Desk,Furniture,11.0,657.22,0.171,430.12,Partner,R05,2026-05-22,Reseller,Net 30,30000
+RT-00172,SO-004543,2026-05-04,3,Damaged in transit,1820.4,2026-04-19,C0941,BC,ErgoLift Standing Desk,Furniture,3.0,648.29,0.064,413.99,Direct Sales,R11,2026-05-24,SMB,Net 30,15000
+RT-00173,SO-004683,2026-05-04,1,Damaged in transit,568.83,2026-05-01,C0998,Quebec,ErgoLift Standing Desk,Furniture,5.0,645.66,0.119,419.9,Direct Sales,R03,2026-05-30,SMB,Net 30,5000
+RT-00174,SO-004528,2026-05-05,1,Changed mind,118.59,2026-04-18,C0831,Quebec,Mechanical Keyboard,Accessories,1.0,118.59,0.0,57.85,Online,,2026-04-18,Consumer,Prepaid,0
+RT-00175,SO-004268,2026-05-07,11,Overstock / ordered in error,1102.64,2026-03-30,C1177,Atlantic,USB-C Dock,Accessories,25.0,146.55,0.316,71.91,Partner,R07,2026-05-03,Reseller,Net 30,30000
+RT-00176,SO-004461,2026-05-07,6,Changed mind,183.04,2026-04-13,C1184,Ontario,Wireless Mouse,Accessories,7.0,38.47,0.207,16.58,Partner,R06,2026-05-11,Reseller,Net 30,20000
+RT-00177,SO-004653,2026-05-08,8,Damaged in transit,4828.92,2026-04-28,C1050,BC,ErgoLift Standing Desk,Furniture,8.0,660.41,0.086,408.04,Direct Sales,R11,2026-05-21,SMB,Net 30,5000
+RT-00178,SO-004227,2026-05-08,20,Overstock / ordered in error,4605.82,2026-03-27,C1182,Atlantic,"Monitor 27""",Displays,27.0,328.05,0.298,208.3,Partner,R07,2026-04-26,Reseller,Net 30,30000
+RT-00180,SO-004742,2026-05-10,6,Damaged in transit,3613.27,2026-05-05,C1026,Prairies,ErgoLift Standing Desk,Furniture,6.0,651.04,0.075,412.31,Direct Sales,R08,2026-05-29,SMB,Net 30,10000
+RT-00181,SO-004238,2026-05-11,16,Overstock / ordered in error,4079.97,2026-03-28,C1188,Atlantic,Office Chair,Furniture,31.0,400.94,0.364,244.33,Partner,R07,2026-05-09,Reseller,Net 30,30000
+RT-00182,SO-004258,2026-05-12,16,Overstock / ordered in error,3359.82,2026-03-29,C1190,Atlantic,"Monitor 27""",Displays,28.0,325.06,0.354,207.27,Partner,R07,2026-05-08,Reseller,Net 30,30000
+RT-00183,SO-004597,2026-05-13,2,Wrong item shipped,111.45,2026-04-24,C0951,Quebec,Desk Lamp,Accessories,3.0,59.03,0.056,27.18,Direct Sales,R03,2026-05-27,SMB,Net 30,10000
+RT-00184,SO-004712,2026-05-15,1,Damaged in transit,646.11,2026-05-02,C0100,Ontario,ErgoLift Standing Desk,Furniture,1.0,646.11,0.0,411.44,Online,,2026-05-02,Consumer,Prepaid,0
+RT-00185,SO-004652,2026-05-15,1,Damaged in transit,651.18,2026-04-28,C0610,Prairies,ErgoLift Standing Desk,Furniture,1.0,651.18,0.0,424.45,Online,,2026-04-28,Consumer,Prepaid,0
+RT-00186,SO-004646,2026-05-15,4,Wrong item shipped,308.36,2026-04-27,C0915,Ontario,Webcam HD,Accessories,4.0,89.64,0.14,44.91,Direct Sales,R04,2026-07-25,SMB,Net 30,15000
+RT-00187,SO-004755,2026-05-18,11,Changed mind,698.22,2026-05-06,C1197,Atlantic,Webcam HD,Accessories,11.0,88.9,0.286,45.24,Partner,R07,2026-07-15,Reseller,Net 30,30000
+RT-00188,SO-004894,2026-05-19,10,Changed mind,5316.05,2026-05-16,C1206,Ontario,ErgoLift Standing Desk,Furniture,10.0,641.26,0.171,413.52,Partner,R04,2026-06-18,Reseller,Net 30,30000
+RT-00189,SO-004630,2026-05-20,1,Damaged in transit,400.58,2026-04-26,C0462,Prairies,Office Chair,Furniture,1.0,400.58,0.0,246.13,Online,,2026-04-26,Consumer,Prepaid,0
+RT-00190,SO-004729,2026-05-21,7,Changed mind,2220.57,2026-05-04,C1189,Ontario,Office Chair,Furniture,11.0,393.09,0.193,241.07,Partner,R05,2026-06-04,Reseller,Net 30,20000
+RT-00191,SO-004962,2026-05-26,1,Damaged in transit,580.69,2026-05-21,C1091,Prairies,ErgoLift Standing Desk,Furniture,1.0,653.19,0.111,407.65,Direct Sales,R09,2026-06-20,SMB,Net 30,10000
+RT-00192,SO-004819,2026-05-27,2,Damaged in transit,1218.64,2026-05-12,C0993,BC,ErgoLift Standing Desk,Furniture,3.0,646.15,0.057,430.69,Direct Sales,R11,2026-06-08,SMB,Net 30,10000
+RT-00193,SO-004870,2026-05-28,3,Wrong item shipped,867.39,2026-05-15,C1142,Ontario,"Monitor 27""",Displays,26.0,322.69,0.104,209.66,Direct Sales,R06,2026-07-07,Enterprise,Net 60,40000
+RT-00194,SO-004776,2026-05-29,11,Damaged in transit,6386.35,2026-05-08,C1202,BC,ErgoLift Standing Desk,Furniture,11.0,656.02,0.115,431.72,Partner,R10,2026-06-09,Reseller,Net 30,30000
+RT-00195,SO-004841,2026-05-29,6,Damaged in transit,3719.57,2026-05-13,C0928,Quebec,ErgoLift Standing Desk,Furniture,6.0,649.82,0.046,427.89,Direct Sales,R03,2026-06-05,SMB,Net 30,10000
+RT-00196,SO-004951,2026-05-29,7,Damaged in transit,4301.06,2026-05-20,C1022,Prairies,ErgoLift Standing Desk,Furniture,7.0,655.05,0.062,416.73,Direct Sales,R08,2026-06-13,SMB,Net 30,15000
+RT-00197,SO-004925,2026-06-02,2,Changed mind,650.16,2026-05-19,C0270,Ontario,"Monitor 27""",Displays,2.0,325.08,0.0,210.31,Online,,2026-05-19,Consumer,Prepaid,0
+RT-00198,SO-005041,2026-06-05,4,Changed mind,179.09,2026-05-28,C1003,Atlantic,Desk Lamp,Accessories,4.0,59.46,0.247,27.38,Direct Sales,R07,2026-08-04,SMB,Net 30,10000
+RT-00199,SO-005113,2026-06-05,2,Damaged in transit,1229.32,2026-06-02,C0994,Ontario,ErgoLift Standing Desk,Furniture,4.0,658.8,0.067,419.3,Direct Sales,R06,2026-06-25,SMB,Net 30,10000
+RT-00200,SO-004872,2026-06-07,28,Damaged in transit,16022.38,2026-05-15,C1156,BC,ErgoLift Standing Desk,Furniture,28.0,651.74,0.122,415.02,Direct Sales,R10,2026-10-07,Enterprise,Net 60,60000
+RT-00201,SO-005116,2026-06-11,1,Changed mind,311.52,2026-06-02,C1093,Atlantic,Office Chair,Furniture,6.0,394.33,0.21,244.54,Direct Sales,R07,2026-07-05,SMB,Net 30,10000
+RT-00202,SO-004930,2026-06-12,2,Damaged in transit,1185.12,2026-05-19,C1051,Quebec,ErgoLift Standing Desk,Furniture,2.0,645.49,0.082,428.14,Direct Sales,R02,2026-06-18,SMB,Net 30,5000
+RT-00203,SO-005106,2026-06-18,1,Defective,34.83,2026-06-02,C0334,Quebec,Wireless Mouse,Accessories,1.0,38.7,0.1,17.49,Online,,2026-06-02,Consumer,Prepaid,0
+RT-00204,SO-005070,2026-06-19,2,Changed mind,217.69,2026-05-30,C0037,Quebec,Mechanical Keyboard,Accessories,2.0,120.94,0.1,57.08,Online,,2026-05-30,Consumer,Prepaid,0
+RT-00205,SO-005313,2026-06-21,2,Changed mind,668.98,2026-06-17,C0471,Quebec,"Monitor 27""",Displays,2.0,334.49,0.0,205.75,Online,,2026-06-17,Consumer,Prepaid,0
+RT-00206,SO-005180,2026-06-24,2,Damaged in transit,1168.21,2026-06-08,C1100,Prairies,ErgoLift Standing Desk,Furniture,4.0,650.45,0.102,413.85,Direct Sales,R08,2026-08-19,SMB,Net 30,5000
+RT-00207,SO-005131,2026-06-26,25,Changed mind,14883.1,2026-06-03,C1145,Quebec,ErgoLift Standing Desk,Furniture,27.0,636.71,0.065,412.67,Direct Sales,R01,2026-07-27,Enterprise,Net 60,60000
+RT-00208,SO-005287,2026-06-27,1,Defective,53.73,2026-06-15,C0511,Prairies,Desk Lamp,Accessories,1.0,59.7,0.1,26.34,Online,,2026-06-15,Consumer,Prepaid,0
+RT-00209,SO-005340,2026-06-28,7,Changed mind,2148.4,2026-06-19,C1090,Ontario,"Monitor 27""",Displays,7.0,323.75,0.052,211.65,Direct Sales,R05,2026-07-15,SMB,Net 30,15000
+RT-00210,SO-005326,2026-06-29,20,Defective,839.46,2026-06-18,C1158,Atlantic,Desk Lamp,Accessories,20.0,58.54,0.283,27.46,Direct Sales,R07,2026-08-16,Enterprise,Net 60,80000
+RT-00211,SO-005356,2026-06-29,1,Changed mind,83.72,2026-06-20,C0859,Ontario,Webcam HD,Accessories,1.0,88.13,0.05,45.58,Online,,2026-06-20,Consumer,Prepaid,0
+RT-00212,SO-005374,2026-06-30,3,Wrong item shipped,1822.56,2026-06-21,C0955,Ontario,ErgoLift Standing Desk,Furniture,3.0,653.95,0.071,420.3,Direct Sales,R05,2026-07-22,SMB,Net 30,15000
+RT-00213,SO-005458,2026-06-30,1,Damaged in transit,646.26,2026-06-27,C0494,Prairies,ErgoLift Standing Desk,Furniture,1.0,646.26,0.0,408.29,Online,,2026-06-27,Consumer,Prepaid,0
+RT-00214,SO-005292,2026-07-05,1,Changed mind,313.79,2026-06-16,C0297,Quebec,"Monitor 27""",Displays,1.0,330.31,0.05,203.85,Online,,2026-06-16,Consumer,Prepaid,0
+RT-00215,SO-005474,2026-07-15,1,Changed mind,401.06,2026-06-28,C0414,Atlantic,Office Chair,Furniture,1.0,401.06,0.0,246.57,Online,,2026-06-28,Consumer,Prepaid,0
+RT-00216,SO-005444,2026-07-17,11,Overstock / ordered in error,4876.58,2026-06-26,C1197,Atlantic,ErgoLift Standing Desk,Furniture,29.0,659.71,0.328,430.33,Partner,R07,2026-08-23,Reseller,Net 30,30000
+RT-00217,SO-005455,2026-07-17,12,Overstock / ordered in error,3147.3,2026-06-27,C1190,Atlantic,Office Chair,Furniture,22.0,392.04,0.331,243.29,Partner,R07,2026-07-25,Reseller,Net 30,30000
+RT-00219,SO-005660,2026-07-18,5,Wrong item shipped,178.69,2026-07-12,C0983,Quebec,Wireless Mouse,Accessories,5.0,39.62,0.098,16.97,Direct Sales,R01,2026-08-03,SMB,Net 30,10000
+RT-00220,SO-005457,2026-07-22,17,Overstock / ordered in error,2451.28,2026-06-27,C1176,Atlantic,"Monitor 24""",Displays,26.0,224.95,0.359,153.2,Partner,R07,2026-08-27,Reseller,Net 30,20000
+RT-00221,SO-005494,2026-07-23,11,Overstock / ordered in error,2685.39,2026-06-29,C1178,Atlantic,Office Chair,Furniture,28.0,397.6,0.386,234.34,Partner,R07,2026-08-03,Reseller,Net 30,30000
+RT-00222,SO-005731,2026-07-23,1,Changed mind,139.23,2026-07-18,C0957,Quebec,USB-C Dock,Accessories,5.0,147.33,0.055,73.07,Direct Sales,R03,2026-09-03,SMB,Net 30,5000
+RT-00223,SO-005435,2026-07-23,21,Damaged in transit,8454.56,2026-06-26,C1190,Atlantic,ErgoLift Standing Desk,Furniture,29.0,641.08,0.372,412.66,Partner,R07,2026-07-28,Reseller,Net 30,30000
+RT-00225,SO-005418,2026-07-25,18,Overstock / ordered in error,2750.5,2026-06-25,C1182,Atlantic,"Monitor 24""",Displays,26.0,225.71,0.323,149.85,Partner,R07,2026-07-28,Reseller,Net 30,30000
+RT-00226,SO-005463,2026-07-25,13,Overstock / ordered in error,2666.28,2026-06-27,C1177,Atlantic,"Monitor 27""",Displays,22.0,324.01,0.367,208.87,Partner,R07,2026-07-31,Reseller,Net 30,30000
+RT-00227,SO-005569,2026-07-26,3,Changed mind,165.74,2026-07-05,C0917,Prairies,Desk Lamp,Accessories,3.0,59.34,0.069,27.36,Direct Sales,R09,2026-07-30,SMB,Net 30,10000
+RT-00228,SO-005609,2026-07-26,3,Damaged in transit,1772.14,2026-07-09,C1022,Prairies,ErgoLift Standing Desk,Furniture,3.0,642.08,0.08,423.43,Direct Sales,R08,2026-09-19,SMB,Net 30,15000
+RT-00229,SO-005481,2026-07-27,14,Overstock / ordered in error,1443.17,2026-06-28,C1181,Atlantic,USB-C Dock,Accessories,26.0,148.75,0.307,72.22,Partner,R07,2026-07-21,Reseller,Net 30,30000
+RT-00230,SO-005766,2026-07-29,4,Changed mind,337.08,2026-07-20,C1006,Ontario,Webcam HD,Accessories,4.0,87.69,0.039,44.37,Direct Sales,R06,2026-08-12,SMB,Net 30,15000
+RT-00231,SO-005773,2026-07-30,5,Changed mind,236.87,2026-07-21,C1082,Ontario,Laptop Stand,Accessories,5.0,49.45,0.042,22.06,Direct Sales,R05,2026-08-19,SMB,Net 30,5000
+RT-00232,SO-005753,2026-07-30,3,Damaged in transit,1489.13,2026-07-19,C0980,Atlantic,ErgoLift Standing Desk,Furniture,3.0,648.01,0.234,419.01,Direct Sales,R07,2026-08-17,SMB,Net 30,5000
+RT-00233,SO-005694,2026-08-04,2,Damaged in transit,1174.83,2026-07-14,C0999,Quebec,ErgoLift Standing Desk,Furniture,2.0,648.36,0.094,415.58,Direct Sales,R02,2026-08-12,SMB,Net 30,5000
+RT-00234,SO-005706,2026-08-05,21,Damaged in transit,1647.67,2026-07-16,C1144,Prairies,Webcam HD,Accessories,21.0,87.96,0.108,43.69,Direct Sales,R09,2026-09-09,Enterprise,Net 60,40000
+RT-00235,SO-005812,2026-08-06,1,Changed mind,638.26,2026-07-24,C0518,Atlantic,ErgoLift Standing Desk,Furniture,1.0,638.26,0.0,428.86,Online,,2026-07-24,Consumer,Prepaid,0
+RT-00236,SO-005495,2026-08-06,13,Overstock / ordered in error,1985.24,2026-06-29,C1179,Atlantic,"Monitor 24""",Displays,24.0,231.38,0.34,152.95,Partner,R07,2026-07-31,Reseller,Net 30,30000
+RT-00237,SO-005721,2026-08-07,4,Wrong item shipped,336.7,2026-07-17,C0948,Quebec,Webcam HD,Accessories,11.0,90.51,0.07,45.44,Direct Sales,R01,2026-08-17,SMB,Net 30,10000
+RT-00238,SO-005808,2026-08-07,2,Changed mind,233.48,2026-07-23,C0180,Atlantic,Mechanical Keyboard,Accessories,2.0,116.74,0.0,57.16,Online,,2026-07-23,Consumer,Prepaid,0
+RT-00239,SO-005942,2026-08-11,6,Changed mind,215.84,2026-08-03,C1063,Prairies,Wireless Mouse,Accessories,6.0,38.64,0.069,16.69,Direct Sales,R09,2026-09-05,SMB,Net 30,15000
+RT-00240,SO-005909,2026-08-12,3,Damaged in transit,1983.12,2026-08-01,C0276,Atlantic,ErgoLift Standing Desk,Furniture,3.0,661.04,0.0,423.91,Online,,2026-08-01,Consumer,Prepaid,0
+RT-00241,SO-005891,2026-08-12,17,Damaged in transit,9817.13,2026-07-31,C1160,Quebec,ErgoLift Standing Desk,Furniture,22.0,657.72,0.122,423.82,Direct Sales,R03,2026-09-28,Enterprise,Net 60,40000
+RT-00242,SO-005515,2026-08-13,13,Overstock / ordered in error,1294.83,2026-06-30,C1177,Atlantic,USB-C Dock,Accessories,25.0,146.69,0.321,71.41,Partner,R07,2026-07-27,Reseller,Net 30,30000
+RT-00243,SO-005513,2026-08-13,16,Changed mind,3275.35,2026-06-30,C1181,Atlantic,"Monitor 27""",Displays,31.0,330.71,0.381,206.13,Partner,R07,2026-08-04,Reseller,Net 30,30000
+RT-00244,SO-005834,2026-08-15,10,Damaged in transit,5729.91,2026-07-26,C1134,Prairies,ErgoLift Standing Desk,Furniture,17.0,657.1,0.128,417.87,Direct Sales,R08,,Enterprise,Net 60,60000
+RT-00245,SO-005859,2026-08-15,3,Damaged in transit,139.94,2026-07-28,C0989,Quebec,Laptop Stand,Accessories,3.0,49.52,0.058,21.78,Direct Sales,R01,2026-08-21,SMB,Net 30,10000
+RT-00246,SO-005882,2026-08-17,2,Damaged in transit,1317.8,2026-07-30,C0401,BC,ErgoLift Standing Desk,Furniture,2.0,658.9,0.0,416.12,Online,,2026-07-30,Consumer,Prepaid,0
+RT-00247,SO-005922,2026-08-20,3,Damaged in transit,154.93,2026-08-02,C0924,BC,Desk Lamp,Accessories,4.0,59.02,0.125,27.73,Direct Sales,R10,2026-10-18,SMB,Net 30,15000
+RT-00248,SO-005951,2026-08-20,1,Damaged in transit,660.44,2026-08-04,C0327,Ontario,ErgoLift Standing Desk,Furniture,1.0,660.44,0.0,416.55,Online,,2026-08-04,Consumer,Prepaid,0
+RT-00249,SO-005978,2026-08-20,5,Defective,563.82,2026-08-06,C0999,Quebec,Mechanical Keyboard,Accessories,5.0,119.2,0.054,57.97,Direct Sales,R02,2026-08-30,SMB,Net 30,5000
+RT-00250,SO-006010,2026-08-28,1,Damaged in transit,222.71,2026-08-09,C1085,Quebec,"Monitor 24""",Displays,1.0,226.56,0.017,151.23,Direct Sales,R01,2026-09-11,SMB,Net 30,15000
+RT-00251,SO-005969,2026-08-30,8,Damaged in transit,4632.26,2026-08-06,C1198,Prairies,ErgoLift Standing Desk,Furniture,8.0,656.5,0.118,424.09,Partner,R08,2026-09-03,Reseller,Net 30,30000
+RT-00252,SO-006051,2026-09-01,7,Wrong item shipped,3942.09,2026-08-12,C1136,Ontario,ErgoLift Standing Desk,Furniture,16.0,648.05,0.131,420.52,Direct Sales,R04,2026-10-16,Enterprise,Net 60,60000
+RT-00253,SO-006118,2026-09-04,1,Defective,39.08,2026-08-17,C0765,Ontario,Wireless Mouse,Accessories,1.0,39.08,0.0,17.49,Online,,2026-08-17,Consumer,Prepaid,0
+RT-00254,SO-006321,2026-09-05,9,Damaged in transit,4981.31,2026-09-01,C1163,Prairies,ErgoLift Standing Desk,Furniture,12.0,658.12,0.159,414.08,Direct Sales,R09,2026-10-28,Enterprise,Net 60,60000
+RT-00255,SO-006368,2026-09-08,2,Changed mind,53.8,2026-09-05,C1181,Atlantic,Wireless Mouse,Accessories,8.0,38.76,0.306,16.53,Partner,R07,,Reseller,Net 30,30000
+RT-00256,SO-006192,2026-09-09,14,Damaged in transit,7226.29,2026-08-22,C1186,BC,ErgoLift Standing Desk,Furniture,14.0,650.9,0.207,415.6,Partner,R10,2026-09-19,Reseller,Net 30,20000
+RT-00257,SO-006283,2026-09-10,2,Wrong item shipped,97.86,2026-08-29,C0087,Quebec,Laptop Stand,Accessories,2.0,48.93,0.0,22.33,Online,,2026-08-29,Consumer,Prepaid,0
+RT-00258,SO-006162,2026-09-11,2,Defective,92.0,2026-08-20,C0253,Quebec,Laptop Stand,Accessories,2.0,48.42,0.05,22.05,Online,,2026-08-20,Consumer,Prepaid,0
+RT-00259,SO-006174,2026-09-13,10,Wrong item shipped,409.28,2026-08-21,C1192,Quebec,Laptop Stand,Accessories,10.0,49.43,0.172,22.33,Partner,R01,2026-09-25,Reseller,Net 30,30000
+RT-00260,SO-006220,2026-09-16,3,Damaged in transit,1773.36,2026-08-24,C1050,BC,ErgoLift Standing Desk,Furniture,3.0,642.52,0.08,418.91,Direct Sales,R11,2026-09-25,SMB,Net 30,5000
+RT-00261,SO-006520,2026-09-19,6,Changed mind,255.76,2026-09-16,C1187,Ontario,Laptop Stand,Accessories,15.0,48.44,0.12,22.06,Partner,R05,2026-10-08,Reseller,Net 30,20000
+RT-00262,SO-006433,2026-09-21,2,Wrong item shipped,607.4,2026-09-10,C1048,Ontario,"Monitor 27""",Displays,5.0,331.91,0.085,206.31,Direct Sales,R06,2026-10-03,SMB,Net 30,10000
+RT-00263,SO-006543,2026-09-21,5,Damaged in transit,2959.2,2026-09-18,C1012,Ontario,ErgoLift Standing Desk,Furniture,5.0,657.6,0.1,419.94,Direct Sales,R04,,SMB,Net 30,15000
+RT-00264,SO-006614,2026-09-26,2,Changed mind,92.93,2026-09-23,C0863,BC,Laptop Stand,Accessories,2.0,48.91,0.05,22.54,Online,,2026-09-23,Consumer,Prepaid,0
+RT-00265,SO-006557,2026-09-27,5,Defective,737.57,2026-09-20,C0930,Quebec,USB-C Dock,Accessories,5.0,151.92,0.029,72.41,Direct Sales,R02,,SMB,Net 30,5000
+RT-00266,SO-006531,2026-10-02,9,Changed mind,3908.74,2026-09-17,C1188,Atlantic,ErgoLift Standing Desk,Furniture,9.0,636.81,0.318,428.61,Partner,R07,2026-10-22,Reseller,Net 30,30000
+RT-00267,SO-006571,2026-10-02,1,Wrong item shipped,49.54,2026-09-20,C0165,Quebec,Laptop Stand,Accessories,1.0,49.54,0.0,21.37,Online,,2026-09-20,Consumer,Prepaid,0
+RT-00268,SO-006578,2026-10-07,2,Damaged in transit,1135.53,2026-09-21,C1091,Prairies,ErgoLift Standing Desk,Furniture,2.0,641.54,0.115,422.26,Direct Sales,R09,2026-10-21,SMB,Net 30,10000
+RT-00269,SO-006684,2026-10-19,17,Overstock / ordered in error,8004.39,2026-09-28,C1182,Atlantic,ErgoLift Standing Desk,Furniture,23.0,651.24,0.277,412.88,Partner,R07,,Reseller,Net 30,30000
+RT-00271,SO-006732,2026-10-22,9,Overstock / ordered in error,1329.12,2026-09-30,C1177,Atlantic,"Monitor 24""",Displays,23.0,230.39,0.359,154.36,Partner,R07,2026-10-30,Reseller,Net 30,30000
+RT-00272,SO-006724,2026-10-24,13,Overstock / ordered in error,3478.72,2026-09-29,C1177,Atlantic,Office Chair,Furniture,19.0,404.22,0.338,241.79,Partner,R07,2026-10-24,Reseller,Net 30,30000
+RT-00273,SO-006656,2026-10-27,17,Overstock / ordered in error,1762.97,2026-09-26,C1190,Atlantic,USB-C Dock,Accessories,33.0,149.0,0.304,72.71,Partner,R07,,Reseller,Net 30,30000
+RT-00274,SO-006658,2026-10-28,18,Overstock / ordered in error,3794.43,2026-09-26,C1178,Atlantic,"Monitor 27""",Displays,25.0,324.81,0.351,210.81,Partner,R07,2026-10-30,Reseller,Net 30,30000
+RT-00275,SO-006707,2026-10-28,17,Overstock / ordered in error,3688.25,2026-09-29,C1190,Atlantic,"Monitor 27""",Displays,23.0,325.76,0.334,214.24,Partner,R07,2026-10-23,Reseller,Net 30,30000
