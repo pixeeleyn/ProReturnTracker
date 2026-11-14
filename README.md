@@ -1,18 +1,22 @@
-# Run Pro Return Tracker Locally
+# Hack2Future Project - Pro Return Tracker
 
-## 1. Install Python
+## How to Run This Project Locally
+
+Created at the **Hack2Future hackathon at Concordia University** by **Vicky Liu (@liu-vicky) and Ruo Chen Ma (@pixeeleyn)**.
+
+### 1. Install Python
 
 Install **Python 3.11 or newer** from https://www.python.org/downloads/.
 
-## 2. Download the project
+### 2. Download the project
 
 Open https://github.com/pixeeleyn/ProReturnTracker, select **Code → Download ZIP**, and extract it.
 
 Open a terminal inside the extracted folder containing `main.py` and `requirements.txt`.
 
-## 3. Install dependencies and start the website
+### 3. Install dependencies and start the website
 
-### macOS / Linux
+#### macOS / Linux
 
 ```bash
 python3 -m venv .venv
@@ -21,7 +25,7 @@ python -m pip install -r requirements.txt
 python -m uvicorn main:app --reload
 ```
 
-### Windows — PowerShell
+#### Windows — PowerShell
 
 ```powershell
 py -m venv .venv
@@ -31,7 +35,7 @@ py -m venv .venv
 
 If `py` is unavailable, use `python` for the first command.
 
-## 4. Open the website
+### 4. Open the website
 
 Keep the terminal running and open **http://127.0.0.1:8000/** in your browser.
 
