@@ -60,3 +60,9 @@ The cleaner excludes invalid dated/negative-value rows and reports exclusion cou
 ## Validation
 
 Run `python test_api.py` after installing requirements plus `httpx`. Tests cover real pipeline output, missing columns, invalid numbers, cumulative over-return, and header-only returns.
+
+## Integrated Game Boy design
+
+The Game Boy frontend is now in static/index.html, with static/dashboard.html and static/assets/. main.py mounts /static and serves the intro at /. Uploads use same-origin POST /analyze, so no separate backend URL is required. The dashboard exclusively renders the returned summary, products, reasons, categories, shipping damage, alerts, tasks, and data audit. It contains no sample revenue/margin/invoice figures. Browser review status is session-only. Customer-analysis scripts remain disconnected as requested.
+
+Replace main.py and the entire static/ folder with this package, commit, and push to main. Redeploy the same Render service (or let automatic deploy run). Existing requirements and analysis scripts are unchanged. After deployment, visit your Render URL and hard-refresh. Select the three CSVs in the cartridge upload form, then click Upload & Scan. Validation errors appear in the window; successful scans populate the dashboard inside the Game Boy bezel.

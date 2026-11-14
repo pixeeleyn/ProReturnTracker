@@ -12,6 +12,7 @@ import pandas as pd
 from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 
 ROOT = Path(__file__).resolve().parent
 MAX_BYTES = 10 * 1024 * 1024
@@ -24,6 +25,8 @@ NUMBERS = {'customers':['credit_limit'], 'orders':['quantity','unit_price','disc
 app = FastAPI(title='Risk404 CSV Analysis API', version='1.0.0')
 origins = [x.strip() for x in os.getenv('ALLOWED_ORIGINS','http://localhost:8000,http://127.0.0.1:8000,https://zsp-gameboy-lab.burblingisle256.chatgpt.site').split(',') if x.strip()]
 app.add_middleware(CORSMiddleware, allow_origins=origins, allow_methods=['GET','POST'], allow_headers=['Content-Type'])
+
+app.mount('/static', StaticFiles(directory=ROOT/'static'), name='static')
 
 @app.get('/')
 def home():
