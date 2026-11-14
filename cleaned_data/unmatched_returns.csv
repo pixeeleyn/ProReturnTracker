@@ -1,0 +1,13 @@
+return_id,order_id,return_date,quantity_returned,reason,refund_amount,order_date,customer_id,region,product,category,quantity,unit_price,discount,unit_cost,sales_channel,sales_rep,payment_date,_merge
+RT-00004,SO-000203,2025-02-02,3,Damaged in transit,900.88,,,,,,,,,,,,,left_only
+RT-00018,SO-000427,2025-03-21,4,Changed mind,208.94,,,,,,,,,,,,,left_only
+RT-00049,SO-001413,2025-07-15,2,Damaged in transit,1088.12,,,,,,,,,,,,,left_only
+RT-00050,SO-001512,2025-07-18,4,Damaged in transit,173.94,,,,,,,,,,,,,left_only
+RT-00089,SO-002261,2025-10-25,14,Overstock / ordered in error,3547.71,,,,,,,,,,,,,left_only
+RT-00092,SO-002415,2025-10-29,15,Wrong item shipped,2821.9,,,,,,,,,,,,,left_only
+RT-00110,SO-002937,2025-12-23,7,Damaged in transit,3829.74,,,,,,,,,,,,,left_only
+RT-00135,SO-003654,2026-02-15,1,Damaged in transit,593.74,,,,,,,,,,,,,left_only
+RT-00179,SO-004663,2026-05-10,4,Defective,445.48,,,,,,,,,,,,,left_only
+RT-00218,SO-005673,2026-07-18,1,Changed mind,43.45,,,,,,,,,,,,,left_only
+RT-00224,SO-005478,2026-07-24,14,Overstock / ordered in error,3934.22,,,,,,,,,,,,,left_only
+RT-00270,SO-006672,2026-10-20,6,Defective,2127.57,,,,,,,,,,,,,left_only

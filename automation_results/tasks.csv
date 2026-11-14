@@ -1,0 +1,4 @@
+task_id,product,rule,task,priority,status,created_at
+ErgoLift Standing Desk|Shipping Damage,ErgoLift Standing Desk,Shipping Damage,Review packaging and shipping procedures for ErgoLift Standing Desk.,Critical,Pending,2026-11-14T18:14:12.544363+00:00
+Office Chair|Shipping Damage,Office Chair,Shipping Damage,Review packaging and shipping procedures for Office Chair.,Critical,Pending,2026-11-14T18:14:12.544363+00:00
+ErgoLift Standing Desk|High Return Rate,ErgoLift Standing Desk,High Return Rate,"Investigate why customers return ErgoLift Standing Desk. Review product quality, packaging, and customer feedback.",High,Pending,2026-11-14T18:18:34.807259+00:00

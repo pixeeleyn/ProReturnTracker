@@ -1,0 +1,4 @@
+alert_id,product,rule,severity,message,recommended_action,detected_at
+ErgoLift Standing Desk|High Return Rate,ErgoLift Standing Desk,High Return Rate,High,ErgoLift Standing Desk has a 12.90% unit return rate. The threshold is 10%.,"Investigate why customers return ErgoLift Standing Desk. Review product quality, packaging, and customer feedback.",2026-11-14T18:18:34.807259+00:00
+ErgoLift Standing Desk|Shipping Damage,ErgoLift Standing Desk,Shipping Damage,Critical,"ErgoLift Standing Desk generated $242,748.68 in shipping-damage refunds.","Review packaging materials, shipping procedures, and delivery damage reports for ErgoLift Standing Desk.",2026-11-14T18:18:34.807259+00:00
+Office Chair|Shipping Damage,Office Chair,Shipping Damage,High,"Office Chair generated $12,118.82 in shipping-damage refunds.","Review packaging materials, shipping procedures, and delivery damage reports for Office Chair.",2026-11-14T18:18:34.807259+00:00
